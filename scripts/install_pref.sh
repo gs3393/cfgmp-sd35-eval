@@ -11,7 +11,7 @@ python -m pip install --prefer-binary hpsv2 image-reward "transformers==4.45.2" 
 python -m pip install --prefer-binary "git+https://github.com/openai/CLIP.git"
 # Two defects in the hpsv2 wheel: an unused `from turtle import forward` (needs tkinter, absent on servers)
 # and a missing BPE vocab file (identical to the one shipped with openai/CLIP).
-SP=$(python -c "import sysconfig; print(sysconfig.get_paths()["purelib"])")
+SP=$(python -c "import sysconfig; print(sysconfig.get_paths()['purelib'])")
 sed -i "/from turtle import/d" $SP/hpsv2/src/open_clip/factory.py
 cp $SP/clip/bpe_simple_vocab_16e6.txt.gz $SP/hpsv2/src/open_clip/
 python - <<PY
