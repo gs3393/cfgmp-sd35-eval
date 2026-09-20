@@ -1,0 +1,7 @@
+# CFG-MP (Picard). Authors' demo_SD.py defaults; w=4 as in their GenEval table. 10 steps -> 62 NFE.
+generation_params:
+  method: cfgmp
+  num_inference_steps: 10
+  guidance_scale: 4.0
+  max_aa_iter: 3
+  time_threshold: 0.6

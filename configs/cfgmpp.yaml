@@ -1,0 +1,9 @@
+# CFG-MP+ (Anderson AA(1,1)). Authors' demo_SD.py defaults; w=4 as in their GenEval table. 10 steps -> 62 NFE.
+generation_params:
+  method: cfgmpp
+  num_inference_steps: 10
+  guidance_scale: 4.0
+  max_aa_iter: 3
+  aa_window_size: 1
+  aa_damping: 1.0
+  time_threshold: 0.6

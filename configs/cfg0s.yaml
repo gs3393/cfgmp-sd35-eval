@@ -1,0 +1,7 @@
+# CFG-Zero*, harness-tuned hyperparameters, 30 steps = 60 NFE.
+generation_params:
+  method: cfg0s
+  num_inference_steps: 30
+  guidance_scale: 3.5
+  use_zero_init: true
+  zero_steps: 0

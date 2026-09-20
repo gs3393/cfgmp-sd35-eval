@@ -1,0 +1,5 @@
+# Vanilla CFG. w from the harness (tuned, = CFG-MP paper Table 3 "cfg=4"); 30 steps = 60 NFE to match CFG-MP's budget.
+generation_params:
+  method: cfg
+  num_inference_steps: 30
+  guidance_scale: 4.0

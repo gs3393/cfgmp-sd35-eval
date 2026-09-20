@@ -1,0 +1,5 @@
+# Harness setting as published (25 steps = 50 NFE). Sanity check against the paper's GenEval 0.655.
+generation_params:
+  method: cfg
+  num_inference_steps: 25
+  guidance_scale: 4.0
