@@ -12,6 +12,8 @@ CFG-MP / CFG-MP+ ([arXiv:2601.21892](https://arxiv.org/abs/2601.21892))를 SD3.5
 | `cfgmp_eval/bootstrap.py` | task 안에서 prompt를 재추출하는 짝지은 bootstrap (재평가 논문의 절차) |
 | `scripts/generate.py` | 설정 하나의 GenEval 이미지를 생성. 모든 설정이 `seed + prompt index`의 같은 noise에서 출발 |
 | `scripts/geneval_eval.py` | mmdet 3.x 출력을 2.x 형식으로 바꿔 GenEval 원본 `evaluate_images.py`를 그대로 실행 |
+| `scripts/pref_scores.py` | 같은 이미지에 HPSv2·ImageReward를 매김 (별도 venv `.venv-pref`) |
+| `scripts/install_env.sh`, `scripts/install_pref.sh` | 생성·GenEval 환경과 선호 점수 환경 설치. harness·hpsv2 설치본의 결함을 고치는 단계 포함 |
 | `scripts/bootstrap_report.py` | 설정별 점수·신뢰구간과 기준 설정 대비 짝지은 차이 |
 | `scripts/run_setting.sh` | 생성 → GenEval 채점 → 요약 |
 | `configs/` | 설정별 YAML. baseline은 harness의 tuned 값, CFG-MP는 저자 demo 기본값 |
