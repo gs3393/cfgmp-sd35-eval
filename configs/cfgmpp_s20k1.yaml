@@ -1,0 +1,10 @@
+# CFG-MP+ with a different split of the same budget: 20 sampling steps, 1 projection iteration -> 68 NFE.
+# NOT the authors setting. Added because their defaults (10 steps) leave visible noise texture on SD3.5-Medium.
+generation_params:
+  method: cfgmpp
+  num_inference_steps: 20
+  guidance_scale: 4.0
+  max_aa_iter: 1
+  aa_window_size: 1
+  aa_damping: 1.0
+  time_threshold: 0.6
