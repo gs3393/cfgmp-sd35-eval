@@ -1,6 +1,6 @@
 """Paired-bootstrap table over GenEval-style results files.
 
-    python scripts/bootstrap_report.py --ref cfg cfg0s cfg=out/cfg/results.jsonl cfgmpp=out/cfgmpp/results.jsonl
+    python scripts/bootstrap_report.py --ref cfg,cfg0s cfg=out/cfg/results.jsonl cfgmpp=out/cfgmpp/results.jsonl
 """
 
 from __future__ import annotations
@@ -18,12 +18,13 @@ from cfgmp_eval.bootstrap import align, load_per_prompt, summarize  # noqa: E402
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("settings", nargs="+", metavar="NAME=RESULTS_JSONL")
-    ap.add_argument("--ref", nargs="*", default=["cfg"], help="settings to take paired differences against")
+    ap.add_argument("--ref", default="cfg", help="comma-separated settings to take paired differences against")
     ap.add_argument("--key", default="correct", help="per-image score field")
     ap.add_argument("--n-boot", type=int, default=10000)
     ap.add_argument("--seed", type=int, default=0)
     ap.add_argument("--json", help="also write the full table here")
     args = ap.parse_args()
+    args.ref = [r for r in args.ref.split(",") if r]
 
     settings = {}
     for item in args.settings:

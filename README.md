@@ -32,7 +32,7 @@ harness 저장소는 라이선스가 없어 이 저장소에 복사하지 않는
 WS=~/data/code/cfgmp-sd35-eval-ws
 scripts/run_setting.sh cfg configs/cfg.yaml
 scripts/run_setting.sh cfgmpp configs/cfgmpp.yaml
-python scripts/bootstrap_report.py --ref cfg cfg0s \
+python scripts/bootstrap_report.py --ref cfg,cfg0s \
     cfg=$WS/outputs/cfg/results.jsonl cfgmpp=$WS/outputs/cfgmpp/results.jsonl
 ```
 
