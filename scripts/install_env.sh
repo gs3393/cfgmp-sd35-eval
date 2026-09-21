@@ -7,7 +7,14 @@ H=$W/RevisitingCFGMethods
 export GENEVAL_ROOT=$W/geneval-bench
 export PIP_CACHE_DIR=$W/.pip-cache
 export TMPDIR=$W/.tmp; mkdir -p $TMPDIR
-python3 -m venv $W/.venv
+# The pins (torch 2.5.1+cu121, mmcv 2.2.0 wheel) are validated on Python 3.10. Where the system python differs,
+# let uv fetch 3.10; its interpreter and cache stay under $W so they survive on hosts with an ephemeral home.
+if python3 -c "import sys; sys.exit(sys.version_info[:2] != (3, 10))"; then
+  python3 -m venv $W/.venv
+else
+  export UV_PYTHON_INSTALL_DIR=$W/.uv-python UV_CACHE_DIR=$W/.uv-cache
+  uv venv --python 3.10 --seed $W/.venv
+fi
 source $W/.venv/bin/activate
 PIP="python -m pip install --prefer-binary -c $H/requirements/constraints.txt"
 $PIP --upgrade pip setuptools wheel

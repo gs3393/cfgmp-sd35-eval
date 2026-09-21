@@ -47,6 +47,7 @@ def main():
     ap.add_argument("--stride", type=int, default=1, help="every k-th prompt (pilot across all tasks)")
     ap.add_argument("--shard", default="0/1", help="i/n: handle prompts with index %% n == i")
     ap.add_argument("--dtype", default="bfloat16", choices=["bfloat16", "float16"])
+    ap.add_argument("--model", default=SD35_MEDIUM, help="HF repo id, e.g. stabilityai/stable-diffusion-3.5-large")
     args = ap.parse_args()
 
     conf = yaml.safe_load(open(args.config))
@@ -71,13 +72,13 @@ def main():
         nfe = 2 * params["num_inference_steps"]
     run_info = {
         "config": args.config, "generation_params": params, "planned_nfe_per_image": nfe,
-        "n_samples": args.n_samples, "seed": args.seed, "dtype": args.dtype, "model": SD35_MEDIUM,
+        "n_samples": args.n_samples, "seed": args.seed, "dtype": args.dtype, "model": args.model,
         "torch": torch.__version__, "gpu": torch.cuda.get_device_name(0),
     }
     (out / f"run_info.shard{shard_i}of{shard_n}.json").write_text(json.dumps(run_info, indent=2))
     print(json.dumps(run_info, indent=2), flush=True)
 
-    pipe = CFGMPMethodsPipeline.from_pretrained(SD35_MEDIUM, torch_dtype=getattr(torch, args.dtype)).to("cuda")
+    pipe = CFGMPMethodsPipeline.from_pretrained(args.model, torch_dtype=getattr(torch, args.dtype)).to("cuda")
     pipe.set_progress_bar_config(disable=True)
 
     done, t0 = 0, time.time()

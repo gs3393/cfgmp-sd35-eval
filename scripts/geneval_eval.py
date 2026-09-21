@@ -42,6 +42,47 @@ def inference_detector_v2_layout(model, img):
 
 mmdet.apis.inference_detector = inference_detector_v2_layout
 
+
+def use_pytorch_msda_if_cuda_kernel_is_broken():
+    """Mask2Former runs mmcv's multi-scale deformable attention CUDA kernel in its pixel decoder. The prebuilt
+    mmcv 2.2.0 wheel has no kernel image for some GPUs (seen on H100, sm_90): the op prints an error, raises
+    nothing and returns zeros, so the detector silently finds no objects. Compare the kernel with mmcv's own
+    PyTorch reference on a small input and route to the reference when they disagree
+    (or when GENEVAL_FORCE_PYTORCH_MSDA=1)."""
+    import torch
+    import mmcv.ops.multi_scale_deform_attn as msda
+
+    torch.manual_seed(0)
+    shapes = torch.tensor([[8, 8], [4, 4]], device="cuda")
+    start = torch.cat((shapes.new_zeros((1,)), shapes.prod(1).cumsum(0)[:-1]))
+    value = torch.rand(1, int(shapes.prod(1).sum()), 2, 8, device="cuda")
+    loc = torch.rand(1, 5, 2, 2, 4, 2, device="cuda")
+    weight = torch.rand(1, 5, 2, 2, 4, device="cuda")
+    reference = msda.multi_scale_deformable_attn_pytorch(value, shapes, loc, weight)
+    forced = os.environ.get("GENEVAL_FORCE_PYTORCH_MSDA") == "1"
+    try:
+        kernel = msda.MultiScaleDeformableAttnFunction.apply(value, shapes, start, loc, weight, 64)
+        torch.cuda.synchronize()
+        broken = not torch.allclose(kernel, reference, atol=1e-4)
+    except Exception:
+        broken = True
+    if not (broken or forced):
+        return
+
+    class PytorchMSDA:
+        @staticmethod
+        def apply(value, spatial_shapes, level_start_index, sampling_locations, attention_weights, im2col_step):
+            return msda.multi_scale_deformable_attn_pytorch(
+                value, spatial_shapes, sampling_locations, attention_weights
+            )
+
+    msda.MultiScaleDeformableAttnFunction = PytorchMSDA
+    why = "mmcv CUDA kernel is unusable on this GPU" if broken else "forced by GENEVAL_FORCE_PYTORCH_MSDA"
+    print(f"[geneval_eval] deformable attention -> PyTorch reference implementation ({why})", file=sys.stderr)
+
+
+use_pytorch_msda_if_cuda_kernel_is_broken()
+
 if __name__ == "__main__":
     argv = sys.argv[1:]
     if "--model-config" not in argv:

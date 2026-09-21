@@ -3,7 +3,14 @@
 set -euxo pipefail
 W=${WS:-$HOME/data/code/cfgmp-sd35-eval-ws}
 export PIP_CACHE_DIR=$W/.pip-cache TMPDIR=$W/.tmp
-python3 -m venv $W/.venv-pref
+# The pins (torch 2.5.1+cu121, mmcv 2.2.0 wheel) are validated on Python 3.10. Where the system python differs,
+# let uv fetch 3.10; its interpreter and cache stay under $W so they survive on hosts with an ephemeral home.
+if python3 -c "import sys; sys.exit(sys.version_info[:2] != (3, 10))"; then
+  python3 -m venv $W/.venv-pref
+else
+  export UV_PYTHON_INSTALL_DIR=$W/.uv-python UV_CACHE_DIR=$W/.uv-cache
+  uv venv --python 3.10 --seed $W/.venv-pref
+fi
 source $W/.venv-pref/bin/activate
 python -m pip install --upgrade pip "setuptools<81" wheel
 python -m pip install --prefer-binary --extra-index-url https://download.pytorch.org/whl/cu121 "torch==2.5.1+cu121" "torchvision==0.20.1+cu121" "numpy<2"
