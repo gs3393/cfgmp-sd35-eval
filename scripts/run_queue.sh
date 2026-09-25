@@ -2,7 +2,9 @@
 # Sequential queue on one GPU: main settings (4 images/prompt) with GenEval + preference scores,
 # then the guidance-scale sweep (1 image/prompt). Resumable: finished steps are skipped.
 set -uo pipefail
-WS=${WS:-$HOME/data/code/cfgmp-sd35-eval-ws}
+# Workspace = the directory that contains this repo clone (<ws>/cfgmp-sd35-eval). Override with CFGMP_WS, never the
+# generic WS: a tmux server on a shared host can carry another project's WS in its global environment.
+WS=${CFGMP_WS:-$(cd "$(dirname "$0")/../.." && pwd)}
 REPO=$(cd "$(dirname "$0")/.." && pwd)
 OUT=${OUT_ROOT:-$WS/outputs}
 export CUDA_VISIBLE_DEVICES=${CUDA_VISIBLE_DEVICES:-1}

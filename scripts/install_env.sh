@@ -2,7 +2,9 @@
 # harness setup_env.py의 deps + benchmarks(geneval) 단계를 같은 핀으로 수행한다.
 # (setup_env.py deps는 공개 저장소에 없는 cfgbench를 editable 설치하려다 실패하므로 그 한 줄만 뺀다.)
 set -euxo pipefail
-W=${WS:-$HOME/data/code/cfgmp-sd35-eval-ws}
+# Workspace = the directory that contains this repo clone (<ws>/cfgmp-sd35-eval). Override with CFGMP_WS, never the
+# generic WS: a tmux server on a shared host can carry another project's WS in its global environment.
+W=${CFGMP_WS:-$(cd "$(dirname "$0")/../.." && pwd)}
 H=$W/RevisitingCFGMethods
 export GENEVAL_ROOT=$W/geneval-bench
 export PIP_CACHE_DIR=$W/.pip-cache

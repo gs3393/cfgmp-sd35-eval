@@ -2,7 +2,9 @@
 # SD3.5-Large queue (paper condition: w=4, ~60 NFE). Run under with_keepalive.sh with the work GPUs in
 # CUDA_VISIBLE_DEVICES. Output names start with L_. Resumable: finished settings are skipped, generation resumes.
 set -uo pipefail
-WS=${WS:-$HOME/data/code/cfgmp-sd35-eval-ws}
+# Workspace = the directory that contains this repo clone (<ws>/cfgmp-sd35-eval). Override with CFGMP_WS, never the
+# generic WS: a tmux server on a shared host can carry another project's WS in its global environment.
+WS=${CFGMP_WS:-$(cd "$(dirname "$0")/../.." && pwd)}
 REPO=$(cd "$(dirname "$0")/.." && pwd)
 OUT=${OUT_ROOT:-$WS/outputs}
 MODEL=stabilityai/stable-diffusion-3.5-large

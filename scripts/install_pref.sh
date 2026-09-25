@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 # HPSv2 + ImageReward scorers in their own venv (their pins conflict with the generation stack).
 set -euxo pipefail
-W=${WS:-$HOME/data/code/cfgmp-sd35-eval-ws}
+# Workspace = the directory that contains this repo clone (<ws>/cfgmp-sd35-eval). Override with CFGMP_WS, never the
+# generic WS: a tmux server on a shared host can carry another project's WS in its global environment.
+W=${CFGMP_WS:-$(cd "$(dirname "$0")/../.." && pwd)}
 export PIP_CACHE_DIR=$W/.pip-cache TMPDIR=$W/.tmp
 # The pins (torch 2.5.1+cu121, mmcv 2.2.0 wheel) are validated on Python 3.10. Where the system python differs,
 # let uv fetch 3.10; its interpreter and cache stay under $W so they survive on hosts with an ephemeral home.

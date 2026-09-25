@@ -3,7 +3,9 @@
 # then scores once. Seeds depend only on the prompt index, so images equal a single-GPU run given the same batch.
 #   usage: CUDA_VISIBLE_DEVICES=0,1,2,3 scripts/run_setting_sharded.sh <run name> <config> [generate.py args...]
 set -uo pipefail
-WS=${WS:-$HOME/data/code/cfgmp-sd35-eval-ws}
+# Workspace = the directory that contains this repo clone (<ws>/cfgmp-sd35-eval). Override with CFGMP_WS, never the
+# generic WS: a tmux server on a shared host can carry another project's WS in its global environment.
+WS=${CFGMP_WS:-$(cd "$(dirname "$0")/../.." && pwd)}
 REPO=$(cd "$(dirname "$0")/.." && pwd)
 export HARNESS_ROOT=${HARNESS_ROOT:-$WS/RevisitingCFGMethods}
 export GENEVAL_ROOT=${GENEVAL_ROOT:-$WS/geneval-bench}

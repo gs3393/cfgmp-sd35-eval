@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 # Generate + GenEval-score one setting.  usage: scripts/run_setting.sh <run name> <config> [generate.py args...]
 set -euo pipefail
-WS=${WS:-$HOME/data/code/cfgmp-sd35-eval-ws}
+# Workspace = the directory that contains this repo clone (<ws>/cfgmp-sd35-eval). Override with CFGMP_WS, never the
+# generic WS: a tmux server on a shared host can carry another project's WS in its global environment.
+WS=${CFGMP_WS:-$(cd "$(dirname "$0")/../.." && pwd)}
 REPO=$(cd "$(dirname "$0")/.." && pwd)
 export HARNESS_ROOT=${HARNESS_ROOT:-$WS/RevisitingCFGMethods}
 export GENEVAL_ROOT=${GENEVAL_ROOT:-$WS/geneval-bench}

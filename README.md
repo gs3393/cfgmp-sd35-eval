@@ -28,12 +28,13 @@ harness 저장소는 라이선스가 없어 이 저장소에 복사하지 않는
 
 ## 실행 (원격 `gpu-host`)
 
+작업 공간은 이 clone을 담은 디렉터리(`<ws>/cfgmp-sd35-eval`)에서 유도한다. 바꾸려면 `CFGMP_WS`를 준다. 공유 호스트의 tmux 전역 환경에 다른 프로젝트의 `WS`·`CUDA_VISIBLE_DEVICES`가 남아 있을 수 있으므로, 큐를 띄울 때 `CUDA_VISIBLE_DEVICES`를 명시한다.
+
 ```bash
-WS=~/data/code/cfgmp-sd35-eval-ws
 scripts/run_setting.sh cfg configs/cfg.yaml
 scripts/run_setting.sh cfgmpp configs/cfgmpp.yaml
 python scripts/bootstrap_report.py --ref cfg,cfg0s \
-    cfg=$WS/outputs/cfg/results.jsonl cfgmpp=$WS/outputs/cfgmpp/results.jsonl
+    cfg=../outputs/cfg/results.jsonl cfgmpp=../outputs/cfgmpp/results.jsonl
 ```
 
 테스트: `python -m pytest -q tests` (GPU 불필요).
