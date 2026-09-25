@@ -22,7 +22,7 @@ run() {  # run <name> <config> [generate.py args...]
   echo "[queue] $(date -Is) end $name: $(tail -1 "$OUT/$name/summary.txt" 2>/dev/null)"
 }
 
-for s in cfg cfgmpp cfgmpp_s20k1 cfg0s cfgmp apg; do run "$s" "$REPO/configs/$s.yaml"; done
+for s in cfg cfgmpp cfgmpp_s20k1 cfg0s cfgmp apg cfgmpp_s20k3 cfgmp_s10k1; do run "$s" "$REPO/configs/$s.yaml"; done
 for w in 3 5 7 9 12; do
   for s in cfg cfgmpp; do run "sweep_${s}_w$w" "$REPO/configs/$s.yaml" --n-samples 1 --set guidance_scale=$w; done
 done
