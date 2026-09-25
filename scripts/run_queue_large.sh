@@ -21,6 +21,9 @@ run L_cfgmp        "$REPO/configs/cfgmp.yaml"
 # CFG-Zero* at w=4 as in the CFG-MP paper (the harness value 3.5 was tuned on Medium, not Large)
 run L_cfg0s        "$REPO/configs/cfg0s.yaml" --set guidance_scale=4.0
 run L_cfgmpp_s20k1 "$REPO/configs/cfgmpp_s20k1.yaml"
+# Factor-isolation runs (not budget matched): sampling-step count alone, projection-iteration count alone.
+run L_cfgmpp_s20k3 "$REPO/configs/cfgmpp_s20k3.yaml"
+run L_cfgmp_s10k1  "$REPO/configs/cfgmp_s10k1.yaml"
 for w in 3 5 7 9 12; do
   for s in cfg cfgmpp; do run "L_sweep_${s}_w$w" "$REPO/configs/$s.yaml" --n-samples 1 --set guidance_scale=$w; done
 done

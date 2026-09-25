@@ -1,0 +1,9 @@
+# CFG-MP (Picard) with the paper 10 sampling steps and a single projection iteration -> 34 NFE. Not budget matched.
+# Purpose: isolate the projection iteration count. Differs from configs/cfgmp.yaml (10 steps, K=3, 62 NFE) only in
+# max_aa_iter. Named cfgmp because with K=1 the cfgmpp AA branch would not activate anyway (see cfgmpp_s20k1.yaml).
+generation_params:
+  method: cfgmp
+  num_inference_steps: 10
+  guidance_scale: 4.0
+  max_aa_iter: 1
+  time_threshold: 0.6

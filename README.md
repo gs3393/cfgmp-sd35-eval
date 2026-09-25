@@ -37,3 +37,8 @@ python scripts/bootstrap_report.py --ref cfg,cfg0s \
 ```
 
 테스트: `python -m pytest -q tests` (GPU 불필요).
+
+## 설정 추가 규칙
+
+- 설정 YAML의 주석에는 목적만이 아니라 **그 값에서 코드가 실제로 하는 일**을 쓴다. 예: `max_aa_iter: 1`이면 Anderson 이력이 쌓이지 않아 Picard 1회와 같다(`cfgmpp_s20k1.yaml`).
+- 두 설정을 비교해 해석할 때는 달라진 요인(step 수, K, AA/Picard, w, NFE)을 전부 나열한 뒤에 원인을 말한다.

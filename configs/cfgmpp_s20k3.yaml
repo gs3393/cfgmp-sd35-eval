@@ -1,0 +1,11 @@
+# CFG-MP+ (AA(1,1)) with 20 sampling steps and the paper iteration count K=3 -> 124 NFE. Not budget matched.
+# Purpose: isolate the sampling-step count. Differs from configs/cfgmpp.yaml (10 steps, K=3, 62 NFE) only in
+# num_inference_steps. AA is active on iterations 2 and 3 of each projected step, exactly as in the paper defaults.
+generation_params:
+  method: cfgmpp
+  num_inference_steps: 20
+  guidance_scale: 4.0
+  max_aa_iter: 3
+  aa_window_size: 1
+  aa_damping: 1.0
+  time_threshold: 0.6

@@ -1,5 +1,8 @@
-# CFG-MP+ with a different split of the same budget: 20 sampling steps, 1 projection iteration -> 68 NFE.
-# NOT the authors setting. Added because their defaults (10 steps) leave visible noise texture on SD3.5-Medium.
+# CFG-MP+ config with 20 sampling steps and max_aa_iter=1 -> 68 NFE. NOT the paper setting.
+# What the code does at this value: Anderson mixing needs at least two history entries, so with a single
+# iteration the AA branch never activates and every projected step is one Picard iteration. This run is
+# therefore identical to CFG-MP (method: cfgmp) with max_aa_iter=1, not an Anderson-accelerated run.
+# Kept under its original name because outputs/cfgmpp_s20k1 and outputs/L_cfgmpp_s20k1 were produced with it.
 generation_params:
   method: cfgmpp
   num_inference_steps: 20
