@@ -1,0 +1,18 @@
+{
+  "config": "/home/user/data/code/cfgmp-sd35-eval-ws/cfgmp-sd35-eval/configs/apg.yaml",
+  "generation_params": {
+    "method": "apg",
+    "num_inference_steps": 30,
+    "guidance_scale": 7.0,
+    "apg_eta": 0.0,
+    "apg_step_radius": 20.0,
+    "apg_momentum": -0.4
+  },
+  "planned_nfe_per_image": 60,
+  "n_samples": 4,
+  "seed": 0,
+  "dtype": "bfloat16",
+  "model": "stabilityai/stable-diffusion-3.5-medium",
+  "torch": "2.5.1+cu121",
+  "gpu": "NVIDIA RTX A6000"
+}

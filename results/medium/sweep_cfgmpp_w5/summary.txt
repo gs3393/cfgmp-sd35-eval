@@ -1,0 +1,17 @@
+Summary
+=======
+Total images: 553
+Total prompts: 553
+% correct images: 66.73%
+% correct prompts: 66.73%
+
+Task breakdown
+==============
+single_object    = 97.50% (78 / 80)
+two_object       = 79.80% (79 / 99)
+color_attr       = 52.00% (52 / 100)
+position         = 32.00% (32 / 100)
+counting         = 68.75% (55 / 80)
+colors           = 77.66% (73 / 94)
+
+Overall score (avg. over tasks): 0.67951

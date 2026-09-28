@@ -1,0 +1,553 @@
+{"filename": "outputs/sweep_cfgmpp_w5/00000/samples/00000.png", "tag": "single_object", "prompt": "a photo of a bench", "hpsv2": 27.8564453125, "image_reward": 0.6371690630912781}
+{"filename": "outputs/sweep_cfgmpp_w5/00001/samples/00000.png", "tag": "single_object", "prompt": "a photo of a cow", "hpsv2": 27.685546875, "image_reward": 0.3131555914878845}
+{"filename": "outputs/sweep_cfgmpp_w5/00002/samples/00000.png", "tag": "single_object", "prompt": "a photo of a bicycle", "hpsv2": 27.9296875, "image_reward": 0.5082740783691406}
+{"filename": "outputs/sweep_cfgmpp_w5/00003/samples/00000.png", "tag": "single_object", "prompt": "a photo of a clock", "hpsv2": 27.5390625, "image_reward": 0.38505181670188904}
+{"filename": "outputs/sweep_cfgmpp_w5/00004/samples/00000.png", "tag": "single_object", "prompt": "a photo of a carrot", "hpsv2": 26.46484375, "image_reward": 0.42612433433532715}
+{"filename": "outputs/sweep_cfgmpp_w5/00005/samples/00000.png", "tag": "single_object", "prompt": "a photo of a suitcase", "hpsv2": 27.9296875, "image_reward": 0.16555935144424438}
+{"filename": "outputs/sweep_cfgmpp_w5/00006/samples/00000.png", "tag": "single_object", "prompt": "a photo of a fork", "hpsv2": 28.857421875, "image_reward": 0.7414590120315552}
+{"filename": "outputs/sweep_cfgmpp_w5/00007/samples/00000.png", "tag": "single_object", "prompt": "a photo of a surfboard", "hpsv2": 27.2216796875, "image_reward": -0.9354870915412903}
+{"filename": "outputs/sweep_cfgmpp_w5/00008/samples/00000.png", "tag": "single_object", "prompt": "a photo of a refrigerator", "hpsv2": 27.392578125, "image_reward": 0.3152633607387543}
+{"filename": "outputs/sweep_cfgmpp_w5/00009/samples/00000.png", "tag": "single_object", "prompt": "a photo of a cup", "hpsv2": 27.1484375, "image_reward": -0.40641212463378906}
+{"filename": "outputs/sweep_cfgmpp_w5/00010/samples/00000.png", "tag": "single_object", "prompt": "a photo of a microwave", "hpsv2": 24.08447265625, "image_reward": -0.26752206683158875}
+{"filename": "outputs/sweep_cfgmpp_w5/00011/samples/00000.png", "tag": "single_object", "prompt": "a photo of a potted plant", "hpsv2": 27.392578125, "image_reward": 0.5228211283683777}
+{"filename": "outputs/sweep_cfgmpp_w5/00012/samples/00000.png", "tag": "single_object", "prompt": "a photo of a snowboard", "hpsv2": 26.2939453125, "image_reward": -1.092635989189148}
+{"filename": "outputs/sweep_cfgmpp_w5/00013/samples/00000.png", "tag": "single_object", "prompt": "a photo of a zebra", "hpsv2": 28.0517578125, "image_reward": 0.666052520275116}
+{"filename": "outputs/sweep_cfgmpp_w5/00014/samples/00000.png", "tag": "single_object", "prompt": "a photo of a parking meter", "hpsv2": 26.8798828125, "image_reward": 0.8911664485931396}
+{"filename": "outputs/sweep_cfgmpp_w5/00015/samples/00000.png", "tag": "single_object", "prompt": "a photo of a spoon", "hpsv2": 29.19921875, "image_reward": 0.5994183421134949}
+{"filename": "outputs/sweep_cfgmpp_w5/00016/samples/00000.png", "tag": "single_object", "prompt": "a photo of a skateboard", "hpsv2": 27.001953125, "image_reward": 0.4148552119731903}
+{"filename": "outputs/sweep_cfgmpp_w5/00017/samples/00000.png", "tag": "single_object", "prompt": "a photo of a car", "hpsv2": 27.0263671875, "image_reward": -0.5129416584968567}
+{"filename": "outputs/sweep_cfgmpp_w5/00018/samples/00000.png", "tag": "single_object", "prompt": "a photo of a motorcycle", "hpsv2": 28.1494140625, "image_reward": 0.09600601345300674}
+{"filename": "outputs/sweep_cfgmpp_w5/00019/samples/00000.png", "tag": "single_object", "prompt": "a photo of a traffic light", "hpsv2": 28.1005859375, "image_reward": 0.6823537349700928}
+{"filename": "outputs/sweep_cfgmpp_w5/00020/samples/00000.png", "tag": "single_object", "prompt": "a photo of a book", "hpsv2": 25.3662109375, "image_reward": 0.2195463329553604}
+{"filename": "outputs/sweep_cfgmpp_w5/00021/samples/00000.png", "tag": "single_object", "prompt": "a photo of a couch", "hpsv2": 26.025390625, "image_reward": -0.15184347331523895}
+{"filename": "outputs/sweep_cfgmpp_w5/00022/samples/00000.png", "tag": "single_object", "prompt": "a photo of a backpack", "hpsv2": 28.466796875, "image_reward": -0.13316316902637482}
+{"filename": "outputs/sweep_cfgmpp_w5/00023/samples/00000.png", "tag": "single_object", "prompt": "a photo of a computer keyboard", "hpsv2": 26.1962890625, "image_reward": 0.4009404480457306}
+{"filename": "outputs/sweep_cfgmpp_w5/00024/samples/00000.png", "tag": "single_object", "prompt": "a photo of a toaster", "hpsv2": 29.638671875, "image_reward": 0.6020639538764954}
+{"filename": "outputs/sweep_cfgmpp_w5/00025/samples/00000.png", "tag": "single_object", "prompt": "a photo of a bird", "hpsv2": 28.662109375, "image_reward": 0.2022859901189804}
+{"filename": "outputs/sweep_cfgmpp_w5/00026/samples/00000.png", "tag": "single_object", "prompt": "a photo of a bowl", "hpsv2": 27.7587890625, "image_reward": -0.17365552484989166}
+{"filename": "outputs/sweep_cfgmpp_w5/00027/samples/00000.png", "tag": "single_object", "prompt": "a photo of a dog", "hpsv2": 27.294921875, "image_reward": -0.3918960690498352}
+{"filename": "outputs/sweep_cfgmpp_w5/00028/samples/00000.png", "tag": "single_object", "prompt": "a photo of a tie", "hpsv2": 27.9296875, "image_reward": 0.5121394991874695}
+{"filename": "outputs/sweep_cfgmpp_w5/00029/samples/00000.png", "tag": "single_object", "prompt": "a photo of a laptop", "hpsv2": 26.7333984375, "image_reward": 0.23410764336585999}
+{"filename": "outputs/sweep_cfgmpp_w5/00030/samples/00000.png", "tag": "single_object", "prompt": "a photo of a computer mouse", "hpsv2": 28.3447265625, "image_reward": 0.3835439085960388}
+{"filename": "outputs/sweep_cfgmpp_w5/00031/samples/00000.png", "tag": "single_object", "prompt": "a photo of a sandwich", "hpsv2": 25.830078125, "image_reward": 0.30577871203422546}
+{"filename": "outputs/sweep_cfgmpp_w5/00032/samples/00000.png", "tag": "single_object", "prompt": "a photo of a baseball bat", "hpsv2": 26.8798828125, "image_reward": 0.16089610755443573}
+{"filename": "outputs/sweep_cfgmpp_w5/00033/samples/00000.png", "tag": "single_object", "prompt": "a photo of a train", "hpsv2": 27.3681640625, "image_reward": 0.18059881031513214}
+{"filename": "outputs/sweep_cfgmpp_w5/00034/samples/00000.png", "tag": "single_object", "prompt": "a photo of a cell phone", "hpsv2": 27.5390625, "image_reward": -0.12056407332420349}
+{"filename": "outputs/sweep_cfgmpp_w5/00035/samples/00000.png", "tag": "single_object", "prompt": "a photo of a chair", "hpsv2": 27.1484375, "image_reward": 0.6306414604187012}
+{"filename": "outputs/sweep_cfgmpp_w5/00036/samples/00000.png", "tag": "single_object", "prompt": "a photo of a tv", "hpsv2": 22.66845703125, "image_reward": -2.10781192779541}
+{"filename": "outputs/sweep_cfgmpp_w5/00037/samples/00000.png", "tag": "single_object", "prompt": "a photo of a broccoli", "hpsv2": 27.783203125, "image_reward": 1.0310211181640625}
+{"filename": "outputs/sweep_cfgmpp_w5/00038/samples/00000.png", "tag": "single_object", "prompt": "a photo of a bed", "hpsv2": 26.2451171875, "image_reward": 0.039057113230228424}
+{"filename": "outputs/sweep_cfgmpp_w5/00039/samples/00000.png", "tag": "single_object", "prompt": "a photo of a skis", "hpsv2": 26.3427734375, "image_reward": -1.0963941812515259}
+{"filename": "outputs/sweep_cfgmpp_w5/00040/samples/00000.png", "tag": "single_object", "prompt": "a photo of a handbag", "hpsv2": 27.392578125, "image_reward": 0.39602401852607727}
+{"filename": "outputs/sweep_cfgmpp_w5/00041/samples/00000.png", "tag": "single_object", "prompt": "a photo of a pizza", "hpsv2": 27.587890625, "image_reward": 0.57566899061203}
+{"filename": "outputs/sweep_cfgmpp_w5/00042/samples/00000.png", "tag": "single_object", "prompt": "a photo of a frisbee", "hpsv2": 26.5380859375, "image_reward": 0.01557713933289051}
+{"filename": "outputs/sweep_cfgmpp_w5/00043/samples/00000.png", "tag": "single_object", "prompt": "a photo of a scissors", "hpsv2": 26.6845703125, "image_reward": 0.2573208212852478}
+{"filename": "outputs/sweep_cfgmpp_w5/00044/samples/00000.png", "tag": "single_object", "prompt": "a photo of a bottle", "hpsv2": 26.416015625, "image_reward": 0.5483567714691162}
+{"filename": "outputs/sweep_cfgmpp_w5/00045/samples/00000.png", "tag": "single_object", "prompt": "a photo of an elephant", "hpsv2": 28.90625, "image_reward": 0.1375029981136322}
+{"filename": "outputs/sweep_cfgmpp_w5/00046/samples/00000.png", "tag": "single_object", "prompt": "a photo of a toilet", "hpsv2": 27.34375, "image_reward": 0.4214479327201843}
+{"filename": "outputs/sweep_cfgmpp_w5/00047/samples/00000.png", "tag": "single_object", "prompt": "a photo of an oven", "hpsv2": 27.05078125, "image_reward": 0.3252620995044708}
+{"filename": "outputs/sweep_cfgmpp_w5/00048/samples/00000.png", "tag": "single_object", "prompt": "a photo of an orange", "hpsv2": 26.3427734375, "image_reward": 0.7355020046234131}
+{"filename": "outputs/sweep_cfgmpp_w5/00049/samples/00000.png", "tag": "single_object", "prompt": "a photo of a person", "hpsv2": 24.1455078125, "image_reward": -2.2787814140319824}
+{"filename": "outputs/sweep_cfgmpp_w5/00050/samples/00000.png", "tag": "single_object", "prompt": "a photo of a teddy bear", "hpsv2": 29.736328125, "image_reward": 0.8163703083992004}
+{"filename": "outputs/sweep_cfgmpp_w5/00051/samples/00000.png", "tag": "single_object", "prompt": "a photo of a vase", "hpsv2": 29.2724609375, "image_reward": 0.6945399045944214}
+{"filename": "outputs/sweep_cfgmpp_w5/00052/samples/00000.png", "tag": "single_object", "prompt": "a photo of a banana", "hpsv2": 26.9775390625, "image_reward": 0.05545852333307266}
+{"filename": "outputs/sweep_cfgmpp_w5/00053/samples/00000.png", "tag": "single_object", "prompt": "a photo of a toothbrush", "hpsv2": 27.63671875, "image_reward": -0.03245479613542557}
+{"filename": "outputs/sweep_cfgmpp_w5/00054/samples/00000.png", "tag": "single_object", "prompt": "a photo of a tv remote", "hpsv2": 27.0751953125, "image_reward": 0.4707798659801483}
+{"filename": "outputs/sweep_cfgmpp_w5/00055/samples/00000.png", "tag": "single_object", "prompt": "a photo of a dining table", "hpsv2": 26.5625, "image_reward": 0.1732400506734848}
+{"filename": "outputs/sweep_cfgmpp_w5/00056/samples/00000.png", "tag": "single_object", "prompt": "a photo of a stop sign", "hpsv2": 27.978515625, "image_reward": 1.1043261289596558}
+{"filename": "outputs/sweep_cfgmpp_w5/00057/samples/00000.png", "tag": "single_object", "prompt": "a photo of a sheep", "hpsv2": 29.8095703125, "image_reward": 0.5887035131454468}
+{"filename": "outputs/sweep_cfgmpp_w5/00058/samples/00000.png", "tag": "single_object", "prompt": "a photo of a fire hydrant", "hpsv2": 25.78125, "image_reward": 0.4463101923465729}
+{"filename": "outputs/sweep_cfgmpp_w5/00059/samples/00000.png", "tag": "single_object", "prompt": "a photo of an airplane", "hpsv2": 27.6611328125, "image_reward": 0.06300294399261475}
+{"filename": "outputs/sweep_cfgmpp_w5/00060/samples/00000.png", "tag": "single_object", "prompt": "a photo of a giraffe", "hpsv2": 28.3447265625, "image_reward": 0.9195649027824402}
+{"filename": "outputs/sweep_cfgmpp_w5/00061/samples/00000.png", "tag": "single_object", "prompt": "a photo of a horse", "hpsv2": 27.8076171875, "image_reward": 0.6890767216682434}
+{"filename": "outputs/sweep_cfgmpp_w5/00062/samples/00000.png", "tag": "single_object", "prompt": "a photo of a cat", "hpsv2": 27.5390625, "image_reward": 0.7117527723312378}
+{"filename": "outputs/sweep_cfgmpp_w5/00063/samples/00000.png", "tag": "single_object", "prompt": "a photo of a donut", "hpsv2": 28.7841796875, "image_reward": 0.5148018002510071}
+{"filename": "outputs/sweep_cfgmpp_w5/00064/samples/00000.png", "tag": "single_object", "prompt": "a photo of a boat", "hpsv2": 30.029296875, "image_reward": 0.5717111825942993}
+{"filename": "outputs/sweep_cfgmpp_w5/00065/samples/00000.png", "tag": "single_object", "prompt": "a photo of a baseball glove", "hpsv2": 29.248046875, "image_reward": 1.380196452140808}
+{"filename": "outputs/sweep_cfgmpp_w5/00066/samples/00000.png", "tag": "single_object", "prompt": "a photo of a hair drier", "hpsv2": 28.4912109375, "image_reward": 1.1398247480392456}
+{"filename": "outputs/sweep_cfgmpp_w5/00067/samples/00000.png", "tag": "single_object", "prompt": "a photo of a sink", "hpsv2": 25.8056640625, "image_reward": 0.25247183442115784}
+{"filename": "outputs/sweep_cfgmpp_w5/00068/samples/00000.png", "tag": "single_object", "prompt": "a photo of a cake", "hpsv2": 28.662109375, "image_reward": 0.343099445104599}
+{"filename": "outputs/sweep_cfgmpp_w5/00069/samples/00000.png", "tag": "single_object", "prompt": "a photo of a wine glass", "hpsv2": 28.0029296875, "image_reward": 0.41315701603889465}
+{"filename": "outputs/sweep_cfgmpp_w5/00070/samples/00000.png", "tag": "single_object", "prompt": "a photo of an apple", "hpsv2": 28.5400390625, "image_reward": 1.1456090211868286}
+{"filename": "outputs/sweep_cfgmpp_w5/00071/samples/00000.png", "tag": "single_object", "prompt": "a photo of a bus", "hpsv2": 28.125, "image_reward": 0.3393896520137787}
+{"filename": "outputs/sweep_cfgmpp_w5/00072/samples/00000.png", "tag": "single_object", "prompt": "a photo of a tennis racket", "hpsv2": 28.6376953125, "image_reward": 0.9773973822593689}
+{"filename": "outputs/sweep_cfgmpp_w5/00073/samples/00000.png", "tag": "single_object", "prompt": "a photo of a knife", "hpsv2": 28.173828125, "image_reward": 0.4827154278755188}
+{"filename": "outputs/sweep_cfgmpp_w5/00074/samples/00000.png", "tag": "single_object", "prompt": "a photo of a hot dog", "hpsv2": 27.8564453125, "image_reward": 0.23502035439014435}
+{"filename": "outputs/sweep_cfgmpp_w5/00075/samples/00000.png", "tag": "single_object", "prompt": "a photo of a truck", "hpsv2": 26.7578125, "image_reward": 0.22621086239814758}
+{"filename": "outputs/sweep_cfgmpp_w5/00076/samples/00000.png", "tag": "single_object", "prompt": "a photo of an umbrella", "hpsv2": 25.9765625, "image_reward": -0.4100751280784607}
+{"filename": "outputs/sweep_cfgmpp_w5/00077/samples/00000.png", "tag": "single_object", "prompt": "a photo of a sports ball", "hpsv2": 28.271484375, "image_reward": 0.8915292620658875}
+{"filename": "outputs/sweep_cfgmpp_w5/00078/samples/00000.png", "tag": "single_object", "prompt": "a photo of a bear", "hpsv2": 28.955078125, "image_reward": 0.3027513325214386}
+{"filename": "outputs/sweep_cfgmpp_w5/00079/samples/00000.png", "tag": "single_object", "prompt": "a photo of a kite", "hpsv2": 27.05078125, "image_reward": 0.37407127022743225}
+{"filename": "outputs/sweep_cfgmpp_w5/00080/samples/00000.png", "tag": "two_object", "prompt": "a photo of a bench and a sports ball", "hpsv2": 28.3203125, "image_reward": 1.8592959642410278}
+{"filename": "outputs/sweep_cfgmpp_w5/00081/samples/00000.png", "tag": "two_object", "prompt": "a photo of a toothbrush and a snowboard", "hpsv2": 27.5146484375, "image_reward": -0.6401711702346802}
+{"filename": "outputs/sweep_cfgmpp_w5/00082/samples/00000.png", "tag": "two_object", "prompt": "a photo of a toaster and an oven", "hpsv2": 28.2958984375, "image_reward": 1.247821569442749}
+{"filename": "outputs/sweep_cfgmpp_w5/00083/samples/00000.png", "tag": "two_object", "prompt": "a photo of a broccoli and a vase", "hpsv2": 27.734375, "image_reward": 1.3383365869522095}
+{"filename": "outputs/sweep_cfgmpp_w5/00084/samples/00000.png", "tag": "two_object", "prompt": "a photo of a tennis racket and a wine glass", "hpsv2": 29.00390625, "image_reward": 1.8726052045822144}
+{"filename": "outputs/sweep_cfgmpp_w5/00085/samples/00000.png", "tag": "two_object", "prompt": "a photo of a fork and a knife", "hpsv2": 28.2470703125, "image_reward": 0.19119234383106232}
+{"filename": "outputs/sweep_cfgmpp_w5/00086/samples/00000.png", "tag": "two_object", "prompt": "a photo of a hair drier and a cake", "hpsv2": 30.9814453125, "image_reward": 1.826932668685913}
+{"filename": "outputs/sweep_cfgmpp_w5/00087/samples/00000.png", "tag": "two_object", "prompt": "a photo of a horse and a giraffe", "hpsv2": 28.61328125, "image_reward": 1.185925841331482}
+{"filename": "outputs/sweep_cfgmpp_w5/00088/samples/00000.png", "tag": "two_object", "prompt": "a photo of a horse and a computer keyboard", "hpsv2": 30.4443359375, "image_reward": 1.8211860656738281}
+{"filename": "outputs/sweep_cfgmpp_w5/00089/samples/00000.png", "tag": "two_object", "prompt": "a photo of a toothbrush and a carrot", "hpsv2": 29.98046875, "image_reward": 1.1783543825149536}
+{"filename": "outputs/sweep_cfgmpp_w5/00090/samples/00000.png", "tag": "two_object", "prompt": "a photo of a cake and a zebra", "hpsv2": 28.759765625, "image_reward": 0.978500485420227}
+{"filename": "outputs/sweep_cfgmpp_w5/00091/samples/00000.png", "tag": "two_object", "prompt": "a photo of a hair drier and a bear", "hpsv2": 29.00390625, "image_reward": 1.4324828386306763}
+{"filename": "outputs/sweep_cfgmpp_w5/00092/samples/00000.png", "tag": "two_object", "prompt": "a photo of a knife and a zebra", "hpsv2": 29.0283203125, "image_reward": 0.9786821603775024}
+{"filename": "outputs/sweep_cfgmpp_w5/00093/samples/00000.png", "tag": "two_object", "prompt": "a photo of a couch and a wine glass", "hpsv2": 27.685546875, "image_reward": 0.7244730591773987}
+{"filename": "outputs/sweep_cfgmpp_w5/00094/samples/00000.png", "tag": "two_object", "prompt": "a photo of a frisbee and a vase", "hpsv2": 28.759765625, "image_reward": 1.3689122200012207}
+{"filename": "outputs/sweep_cfgmpp_w5/00095/samples/00000.png", "tag": "two_object", "prompt": "a photo of a book and a laptop", "hpsv2": 27.5634765625, "image_reward": 1.5586178302764893}
+{"filename": "outputs/sweep_cfgmpp_w5/00096/samples/00000.png", "tag": "two_object", "prompt": "a photo of a dining table and a bear", "hpsv2": 28.125, "image_reward": 1.0841643810272217}
+{"filename": "outputs/sweep_cfgmpp_w5/00097/samples/00000.png", "tag": "two_object", "prompt": "a photo of a frisbee and a couch", "hpsv2": 28.8818359375, "image_reward": 1.515729308128357}
+{"filename": "outputs/sweep_cfgmpp_w5/00098/samples/00000.png", "tag": "two_object", "prompt": "a photo of a couch and a horse", "hpsv2": 28.0029296875, "image_reward": 1.474635362625122}
+{"filename": "outputs/sweep_cfgmpp_w5/00099/samples/00000.png", "tag": "two_object", "prompt": "a photo of a toilet and a computer mouse", "hpsv2": 25.830078125, "image_reward": -1.4406160116195679}
+{"filename": "outputs/sweep_cfgmpp_w5/00100/samples/00000.png", "tag": "two_object", "prompt": "a photo of a bottle and a refrigerator", "hpsv2": 26.7822265625, "image_reward": 0.4917997717857361}
+{"filename": "outputs/sweep_cfgmpp_w5/00101/samples/00000.png", "tag": "two_object", "prompt": "a photo of a potted plant and a backpack", "hpsv2": 28.857421875, "image_reward": 1.8969615697860718}
+{"filename": "outputs/sweep_cfgmpp_w5/00102/samples/00000.png", "tag": "two_object", "prompt": "a photo of a skateboard and a cake", "hpsv2": 28.369140625, "image_reward": 1.652396321296692}
+{"filename": "outputs/sweep_cfgmpp_w5/00103/samples/00000.png", "tag": "two_object", "prompt": "a photo of a broccoli and a parking meter", "hpsv2": 30.2001953125, "image_reward": 1.8310163021087646}
+{"filename": "outputs/sweep_cfgmpp_w5/00104/samples/00000.png", "tag": "two_object", "prompt": "a photo of a zebra and a bed", "hpsv2": 28.076171875, "image_reward": 0.7993490695953369}
+{"filename": "outputs/sweep_cfgmpp_w5/00105/samples/00000.png", "tag": "two_object", "prompt": "a photo of an oven and a bed", "hpsv2": 28.662109375, "image_reward": 1.1984049081802368}
+{"filename": "outputs/sweep_cfgmpp_w5/00106/samples/00000.png", "tag": "two_object", "prompt": "a photo of a baseball bat and a fork", "hpsv2": 28.369140625, "image_reward": 1.6591113805770874}
+{"filename": "outputs/sweep_cfgmpp_w5/00107/samples/00000.png", "tag": "two_object", "prompt": "a photo of a vase and a spoon", "hpsv2": 28.955078125, "image_reward": 1.5685573816299438}
+{"filename": "outputs/sweep_cfgmpp_w5/00108/samples/00000.png", "tag": "two_object", "prompt": "a photo of a skateboard and a sink", "hpsv2": 27.3681640625, "image_reward": 1.802863597869873}
+{"filename": "outputs/sweep_cfgmpp_w5/00109/samples/00000.png", "tag": "two_object", "prompt": "a photo of a pizza and a bench", "hpsv2": 29.98046875, "image_reward": 1.7298833131790161}
+{"filename": "outputs/sweep_cfgmpp_w5/00110/samples/00000.png", "tag": "two_object", "prompt": "a photo of a bowl and a pizza", "hpsv2": 27.4169921875, "image_reward": 0.19940409064292908}
+{"filename": "outputs/sweep_cfgmpp_w5/00111/samples/00000.png", "tag": "two_object", "prompt": "a photo of a tennis racket and a bird", "hpsv2": 31.0546875, "image_reward": 1.9050098657608032}
+{"filename": "outputs/sweep_cfgmpp_w5/00112/samples/00000.png", "tag": "two_object", "prompt": "a photo of a wine glass and a bear", "hpsv2": 31.0302734375, "image_reward": 1.7640801668167114}
+{"filename": "outputs/sweep_cfgmpp_w5/00113/samples/00000.png", "tag": "two_object", "prompt": "a photo of a fork and a book", "hpsv2": 28.9794921875, "image_reward": 1.1709994077682495}
+{"filename": "outputs/sweep_cfgmpp_w5/00114/samples/00000.png", "tag": "two_object", "prompt": "a photo of a scissors and a bowl", "hpsv2": 27.392578125, "image_reward": 1.5477403402328491}
+{"filename": "outputs/sweep_cfgmpp_w5/00115/samples/00000.png", "tag": "two_object", "prompt": "a photo of a laptop and a carrot", "hpsv2": 28.955078125, "image_reward": 1.517549991607666}
+{"filename": "outputs/sweep_cfgmpp_w5/00116/samples/00000.png", "tag": "two_object", "prompt": "a photo of a stop sign and a bottle", "hpsv2": 27.5390625, "image_reward": 1.7285956144332886}
+{"filename": "outputs/sweep_cfgmpp_w5/00117/samples/00000.png", "tag": "two_object", "prompt": "a photo of a microwave and a truck", "hpsv2": 25.927734375, "image_reward": -0.013158507645130157}
+{"filename": "outputs/sweep_cfgmpp_w5/00118/samples/00000.png", "tag": "two_object", "prompt": "a photo of a person and a bear", "hpsv2": 28.0517578125, "image_reward": 1.064762830734253}
+{"filename": "outputs/sweep_cfgmpp_w5/00119/samples/00000.png", "tag": "two_object", "prompt": "a photo of a frisbee and a cell phone", "hpsv2": 28.3203125, "image_reward": 1.3595014810562134}
+{"filename": "outputs/sweep_cfgmpp_w5/00120/samples/00000.png", "tag": "two_object", "prompt": "a photo of a parking meter and a teddy bear", "hpsv2": 30.419921875, "image_reward": 1.9007277488708496}
+{"filename": "outputs/sweep_cfgmpp_w5/00121/samples/00000.png", "tag": "two_object", "prompt": "a photo of a tennis racket and a bicycle", "hpsv2": 27.2216796875, "image_reward": 1.2803906202316284}
+{"filename": "outputs/sweep_cfgmpp_w5/00122/samples/00000.png", "tag": "two_object", "prompt": "a photo of a stop sign and a motorcycle", "hpsv2": 28.662109375, "image_reward": 1.7425040006637573}
+{"filename": "outputs/sweep_cfgmpp_w5/00123/samples/00000.png", "tag": "two_object", "prompt": "a photo of a fire hydrant and a tennis racket", "hpsv2": 30.6640625, "image_reward": 1.9285099506378174}
+{"filename": "outputs/sweep_cfgmpp_w5/00124/samples/00000.png", "tag": "two_object", "prompt": "a photo of a scissors and a sandwich", "hpsv2": 28.125, "image_reward": 1.6625710725784302}
+{"filename": "outputs/sweep_cfgmpp_w5/00125/samples/00000.png", "tag": "two_object", "prompt": "a photo of a pizza and a book", "hpsv2": 28.3447265625, "image_reward": 1.8695818185806274}
+{"filename": "outputs/sweep_cfgmpp_w5/00126/samples/00000.png", "tag": "two_object", "prompt": "a photo of a giraffe and a computer mouse", "hpsv2": 29.4677734375, "image_reward": 0.8495611548423767}
+{"filename": "outputs/sweep_cfgmpp_w5/00127/samples/00000.png", "tag": "two_object", "prompt": "a photo of a stop sign and a toaster", "hpsv2": 28.0517578125, "image_reward": 1.8279098272323608}
+{"filename": "outputs/sweep_cfgmpp_w5/00128/samples/00000.png", "tag": "two_object", "prompt": "a photo of a computer mouse and a zebra", "hpsv2": 29.39453125, "image_reward": 1.316386342048645}
+{"filename": "outputs/sweep_cfgmpp_w5/00129/samples/00000.png", "tag": "two_object", "prompt": "a photo of a chair and a bench", "hpsv2": 27.8076171875, "image_reward": 0.8209674954414368}
+{"filename": "outputs/sweep_cfgmpp_w5/00130/samples/00000.png", "tag": "two_object", "prompt": "a photo of a tv and a carrot", "hpsv2": 30.322265625, "image_reward": 1.8204580545425415}
+{"filename": "outputs/sweep_cfgmpp_w5/00131/samples/00000.png", "tag": "two_object", "prompt": "a photo of a surfboard and a suitcase", "hpsv2": 29.052734375, "image_reward": 1.7481094598770142}
+{"filename": "outputs/sweep_cfgmpp_w5/00132/samples/00000.png", "tag": "two_object", "prompt": "a photo of a computer keyboard and a laptop", "hpsv2": 26.4404296875, "image_reward": 0.47201892733573914}
+{"filename": "outputs/sweep_cfgmpp_w5/00133/samples/00000.png", "tag": "two_object", "prompt": "a photo of a computer keyboard and a microwave", "hpsv2": 25.68359375, "image_reward": 0.7408322691917419}
+{"filename": "outputs/sweep_cfgmpp_w5/00134/samples/00000.png", "tag": "two_object", "prompt": "a photo of a scissors and a bird", "hpsv2": 25.732421875, "image_reward": -1.2215044498443604}
+{"filename": "outputs/sweep_cfgmpp_w5/00135/samples/00000.png", "tag": "two_object", "prompt": "a photo of a person and a snowboard", "hpsv2": 27.587890625, "image_reward": -0.6788322329521179}
+{"filename": "outputs/sweep_cfgmpp_w5/00136/samples/00000.png", "tag": "two_object", "prompt": "a photo of a cow and a horse", "hpsv2": 26.513671875, "image_reward": 0.7844405770301819}
+{"filename": "outputs/sweep_cfgmpp_w5/00137/samples/00000.png", "tag": "two_object", "prompt": "a photo of a handbag and a refrigerator", "hpsv2": 29.78515625, "image_reward": 1.8982943296432495}
+{"filename": "outputs/sweep_cfgmpp_w5/00138/samples/00000.png", "tag": "two_object", "prompt": "a photo of a chair and a laptop", "hpsv2": 28.7841796875, "image_reward": 1.3034415245056152}
+{"filename": "outputs/sweep_cfgmpp_w5/00139/samples/00000.png", "tag": "two_object", "prompt": "a photo of a toothbrush and a bench", "hpsv2": 28.5400390625, "image_reward": 0.4450564682483673}
+{"filename": "outputs/sweep_cfgmpp_w5/00140/samples/00000.png", "tag": "two_object", "prompt": "a photo of a book and a baseball bat", "hpsv2": 27.9296875, "image_reward": 1.6315521001815796}
+{"filename": "outputs/sweep_cfgmpp_w5/00141/samples/00000.png", "tag": "two_object", "prompt": "a photo of a horse and a train", "hpsv2": 28.5888671875, "image_reward": 1.6449923515319824}
+{"filename": "outputs/sweep_cfgmpp_w5/00142/samples/00000.png", "tag": "two_object", "prompt": "a photo of a bench and a vase", "hpsv2": 25.8056640625, "image_reward": 1.5851280689239502}
+{"filename": "outputs/sweep_cfgmpp_w5/00143/samples/00000.png", "tag": "two_object", "prompt": "a photo of a traffic light and a backpack", "hpsv2": 28.8818359375, "image_reward": 1.696907877922058}
+{"filename": "outputs/sweep_cfgmpp_w5/00144/samples/00000.png", "tag": "two_object", "prompt": "a photo of a sports ball and a cow", "hpsv2": 27.9541015625, "image_reward": 1.8513299226760864}
+{"filename": "outputs/sweep_cfgmpp_w5/00145/samples/00000.png", "tag": "two_object", "prompt": "a photo of a computer mouse and a spoon", "hpsv2": 29.8828125, "image_reward": 1.441037654876709}
+{"filename": "outputs/sweep_cfgmpp_w5/00146/samples/00000.png", "tag": "two_object", "prompt": "a photo of a tv and a bicycle", "hpsv2": 29.19921875, "image_reward": 1.736579179763794}
+{"filename": "outputs/sweep_cfgmpp_w5/00147/samples/00000.png", "tag": "two_object", "prompt": "a photo of a bench and a snowboard", "hpsv2": 28.9794921875, "image_reward": 1.8139594793319702}
+{"filename": "outputs/sweep_cfgmpp_w5/00148/samples/00000.png", "tag": "two_object", "prompt": "a photo of a toothbrush and a toilet", "hpsv2": 27.05078125, "image_reward": 0.8392814993858337}
+{"filename": "outputs/sweep_cfgmpp_w5/00149/samples/00000.png", "tag": "two_object", "prompt": "a photo of a person and an apple", "hpsv2": 27.83203125, "image_reward": -0.6516581773757935}
+{"filename": "outputs/sweep_cfgmpp_w5/00150/samples/00000.png", "tag": "two_object", "prompt": "a photo of a sink and a sports ball", "hpsv2": 27.5146484375, "image_reward": 1.7696644067764282}
+{"filename": "outputs/sweep_cfgmpp_w5/00151/samples/00000.png", "tag": "two_object", "prompt": "a photo of a stop sign and a dog", "hpsv2": 29.541015625, "image_reward": 1.7173796892166138}
+{"filename": "outputs/sweep_cfgmpp_w5/00152/samples/00000.png", "tag": "two_object", "prompt": "a photo of a knife and a stop sign", "hpsv2": 30.0537109375, "image_reward": 1.6155791282653809}
+{"filename": "outputs/sweep_cfgmpp_w5/00153/samples/00000.png", "tag": "two_object", "prompt": "a photo of a wine glass and a handbag", "hpsv2": 28.5400390625, "image_reward": 1.8094526529312134}
+{"filename": "outputs/sweep_cfgmpp_w5/00154/samples/00000.png", "tag": "two_object", "prompt": "a photo of a bowl and a skis", "hpsv2": 27.783203125, "image_reward": 1.7407652139663696}
+{"filename": "outputs/sweep_cfgmpp_w5/00155/samples/00000.png", "tag": "two_object", "prompt": "a photo of a frisbee and an apple", "hpsv2": 29.5654296875, "image_reward": 1.800626277923584}
+{"filename": "outputs/sweep_cfgmpp_w5/00156/samples/00000.png", "tag": "two_object", "prompt": "a photo of a computer keyboard and a cell phone", "hpsv2": 29.00390625, "image_reward": 0.28114697337150574}
+{"filename": "outputs/sweep_cfgmpp_w5/00157/samples/00000.png", "tag": "two_object", "prompt": "a photo of a stop sign and a fork", "hpsv2": 26.7578125, "image_reward": 0.32843655347824097}
+{"filename": "outputs/sweep_cfgmpp_w5/00158/samples/00000.png", "tag": "two_object", "prompt": "a photo of a potted plant and a boat", "hpsv2": 26.513671875, "image_reward": 1.2480683326721191}
+{"filename": "outputs/sweep_cfgmpp_w5/00159/samples/00000.png", "tag": "two_object", "prompt": "a photo of a tv and a cell phone", "hpsv2": 27.5390625, "image_reward": 1.353603482246399}
+{"filename": "outputs/sweep_cfgmpp_w5/00160/samples/00000.png", "tag": "two_object", "prompt": "a photo of a tie and a broccoli", "hpsv2": 30.37109375, "image_reward": 1.868773341178894}
+{"filename": "outputs/sweep_cfgmpp_w5/00161/samples/00000.png", "tag": "two_object", "prompt": "a photo of a potted plant and a donut", "hpsv2": 29.1259765625, "image_reward": 1.9629442691802979}
+{"filename": "outputs/sweep_cfgmpp_w5/00162/samples/00000.png", "tag": "two_object", "prompt": "a photo of a person and a sink", "hpsv2": 23.6328125, "image_reward": -1.615526795387268}
+{"filename": "outputs/sweep_cfgmpp_w5/00163/samples/00000.png", "tag": "two_object", "prompt": "a photo of a couch and a snowboard", "hpsv2": 29.052734375, "image_reward": 1.655454397201538}
+{"filename": "outputs/sweep_cfgmpp_w5/00164/samples/00000.png", "tag": "two_object", "prompt": "a photo of a fork and a baseball glove", "hpsv2": 28.955078125, "image_reward": 1.850345253944397}
+{"filename": "outputs/sweep_cfgmpp_w5/00165/samples/00000.png", "tag": "two_object", "prompt": "a photo of an apple and a toothbrush", "hpsv2": 31.005859375, "image_reward": 1.7048171758651733}
+{"filename": "outputs/sweep_cfgmpp_w5/00166/samples/00000.png", "tag": "two_object", "prompt": "a photo of a bus and a baseball glove", "hpsv2": 29.248046875, "image_reward": 1.8057582378387451}
+{"filename": "outputs/sweep_cfgmpp_w5/00167/samples/00000.png", "tag": "two_object", "prompt": "a photo of a person and a stop sign", "hpsv2": 26.3916015625, "image_reward": -0.5350369811058044}
+{"filename": "outputs/sweep_cfgmpp_w5/00168/samples/00000.png", "tag": "two_object", "prompt": "a photo of a carrot and a couch", "hpsv2": 28.3935546875, "image_reward": 0.9682036638259888}
+{"filename": "outputs/sweep_cfgmpp_w5/00169/samples/00000.png", "tag": "two_object", "prompt": "a photo of a baseball bat and a bear", "hpsv2": 29.248046875, "image_reward": 1.7115287780761719}
+{"filename": "outputs/sweep_cfgmpp_w5/00170/samples/00000.png", "tag": "two_object", "prompt": "a photo of a fire hydrant and a train", "hpsv2": 27.5146484375, "image_reward": 1.7862720489501953}
+{"filename": "outputs/sweep_cfgmpp_w5/00171/samples/00000.png", "tag": "two_object", "prompt": "a photo of a baseball glove and a carrot", "hpsv2": 28.0029296875, "image_reward": 1.708589792251587}
+{"filename": "outputs/sweep_cfgmpp_w5/00172/samples/00000.png", "tag": "two_object", "prompt": "a photo of a microwave and a bench", "hpsv2": 26.171875, "image_reward": -1.161695122718811}
+{"filename": "outputs/sweep_cfgmpp_w5/00173/samples/00000.png", "tag": "two_object", "prompt": "a photo of a cake and a stop sign", "hpsv2": 30.76171875, "image_reward": 1.812040090560913}
+{"filename": "outputs/sweep_cfgmpp_w5/00174/samples/00000.png", "tag": "two_object", "prompt": "a photo of a car and a computer mouse", "hpsv2": 29.78515625, "image_reward": 1.8500268459320068}
+{"filename": "outputs/sweep_cfgmpp_w5/00175/samples/00000.png", "tag": "two_object", "prompt": "a photo of a suitcase and a dining table", "hpsv2": 27.2216796875, "image_reward": 1.1663349866867065}
+{"filename": "outputs/sweep_cfgmpp_w5/00176/samples/00000.png", "tag": "two_object", "prompt": "a photo of a person and a traffic light", "hpsv2": 28.8818359375, "image_reward": 1.2968029975891113}
+{"filename": "outputs/sweep_cfgmpp_w5/00177/samples/00000.png", "tag": "two_object", "prompt": "a photo of a cell phone and a horse", "hpsv2": 30.6884765625, "image_reward": 1.7316415309906006}
+{"filename": "outputs/sweep_cfgmpp_w5/00178/samples/00000.png", "tag": "two_object", "prompt": "a photo of a baseball bat and a giraffe", "hpsv2": 30.9326171875, "image_reward": 1.33612859249115}
+{"filename": "outputs/sweep_cfgmpp_w5/00179/samples/00000.png", "tag": "counting", "prompt": "a photo of two clocks", "hpsv2": 27.7099609375, "image_reward": 0.5910036563873291}
+{"filename": "outputs/sweep_cfgmpp_w5/00180/samples/00000.png", "tag": "counting", "prompt": "a photo of two backpacks", "hpsv2": 29.7119140625, "image_reward": 1.3403642177581787}
+{"filename": "outputs/sweep_cfgmpp_w5/00181/samples/00000.png", "tag": "counting", "prompt": "a photo of four handbags", "hpsv2": 29.541015625, "image_reward": 1.1210652589797974}
+{"filename": "outputs/sweep_cfgmpp_w5/00182/samples/00000.png", "tag": "counting", "prompt": "a photo of two frisbees", "hpsv2": 28.564453125, "image_reward": 0.5418270230293274}
+{"filename": "outputs/sweep_cfgmpp_w5/00183/samples/00000.png", "tag": "counting", "prompt": "a photo of three sports balls", "hpsv2": 28.1005859375, "image_reward": 1.5491020679473877}
+{"filename": "outputs/sweep_cfgmpp_w5/00184/samples/00000.png", "tag": "counting", "prompt": "a photo of two bears", "hpsv2": 28.9306640625, "image_reward": 0.3464948236942291}
+{"filename": "outputs/sweep_cfgmpp_w5/00185/samples/00000.png", "tag": "counting", "prompt": "a photo of two ties", "hpsv2": 28.5888671875, "image_reward": 1.2657067775726318}
+{"filename": "outputs/sweep_cfgmpp_w5/00186/samples/00000.png", "tag": "counting", "prompt": "a photo of four sinks", "hpsv2": 25.2685546875, "image_reward": 0.3119497001171112}
+{"filename": "outputs/sweep_cfgmpp_w5/00187/samples/00000.png", "tag": "counting", "prompt": "a photo of two toothbrushs", "hpsv2": 30.126953125, "image_reward": 0.6613551378250122}
+{"filename": "outputs/sweep_cfgmpp_w5/00188/samples/00000.png", "tag": "counting", "prompt": "a photo of three persons", "hpsv2": 28.5400390625, "image_reward": 0.2893257439136505}
+{"filename": "outputs/sweep_cfgmpp_w5/00189/samples/00000.png", "tag": "counting", "prompt": "a photo of three tennis rackets", "hpsv2": 29.736328125, "image_reward": 1.5850348472595215}
+{"filename": "outputs/sweep_cfgmpp_w5/00190/samples/00000.png", "tag": "counting", "prompt": "a photo of four bowls", "hpsv2": 26.5869140625, "image_reward": 1.053285837173462}
+{"filename": "outputs/sweep_cfgmpp_w5/00191/samples/00000.png", "tag": "counting", "prompt": "a photo of four vases", "hpsv2": 27.3681640625, "image_reward": 1.297924518585205}
+{"filename": "outputs/sweep_cfgmpp_w5/00192/samples/00000.png", "tag": "counting", "prompt": "a photo of three cups", "hpsv2": 28.6865234375, "image_reward": 0.8355341553688049}
+{"filename": "outputs/sweep_cfgmpp_w5/00193/samples/00000.png", "tag": "counting", "prompt": "a photo of four computer keyboards", "hpsv2": 27.685546875, "image_reward": 1.0054235458374023}
+{"filename": "outputs/sweep_cfgmpp_w5/00194/samples/00000.png", "tag": "counting", "prompt": "a photo of three sinks", "hpsv2": 27.3193359375, "image_reward": 1.1655089855194092}
+{"filename": "outputs/sweep_cfgmpp_w5/00195/samples/00000.png", "tag": "counting", "prompt": "a photo of two ovens", "hpsv2": 28.90625, "image_reward": 0.7707871198654175}
+{"filename": "outputs/sweep_cfgmpp_w5/00196/samples/00000.png", "tag": "counting", "prompt": "a photo of two toilets", "hpsv2": 27.6123046875, "image_reward": 0.8058491349220276}
+{"filename": "outputs/sweep_cfgmpp_w5/00197/samples/00000.png", "tag": "counting", "prompt": "a photo of two bicycles", "hpsv2": 29.00390625, "image_reward": -0.31242236495018005}
+{"filename": "outputs/sweep_cfgmpp_w5/00198/samples/00000.png", "tag": "counting", "prompt": "a photo of two trains", "hpsv2": 28.857421875, "image_reward": 0.796015202999115}
+{"filename": "outputs/sweep_cfgmpp_w5/00199/samples/00000.png", "tag": "counting", "prompt": "a photo of three oranges", "hpsv2": 27.9052734375, "image_reward": 1.2519049644470215}
+{"filename": "outputs/sweep_cfgmpp_w5/00200/samples/00000.png", "tag": "counting", "prompt": "a photo of three buses", "hpsv2": 28.3935546875, "image_reward": 0.9467271566390991}
+{"filename": "outputs/sweep_cfgmpp_w5/00201/samples/00000.png", "tag": "counting", "prompt": "a photo of three handbags", "hpsv2": 27.4169921875, "image_reward": 0.23936133086681366}
+{"filename": "outputs/sweep_cfgmpp_w5/00202/samples/00000.png", "tag": "counting", "prompt": "a photo of three snowboards", "hpsv2": 29.4921875, "image_reward": 0.3410959243774414}
+{"filename": "outputs/sweep_cfgmpp_w5/00203/samples/00000.png", "tag": "counting", "prompt": "a photo of two snowboards", "hpsv2": 28.5400390625, "image_reward": 0.1433323323726654}
+{"filename": "outputs/sweep_cfgmpp_w5/00204/samples/00000.png", "tag": "counting", "prompt": "a photo of four dogs", "hpsv2": 29.1748046875, "image_reward": 0.7894037365913391}
+{"filename": "outputs/sweep_cfgmpp_w5/00205/samples/00000.png", "tag": "counting", "prompt": "a photo of three apples", "hpsv2": 28.6865234375, "image_reward": 0.5646669268608093}
+{"filename": "outputs/sweep_cfgmpp_w5/00206/samples/00000.png", "tag": "counting", "prompt": "a photo of two sheeps", "hpsv2": 29.3212890625, "image_reward": 0.9276112914085388}
+{"filename": "outputs/sweep_cfgmpp_w5/00207/samples/00000.png", "tag": "counting", "prompt": "a photo of three hot dogs", "hpsv2": 28.515625, "image_reward": 0.5391913056373596}
+{"filename": "outputs/sweep_cfgmpp_w5/00208/samples/00000.png", "tag": "counting", "prompt": "a photo of three zebras", "hpsv2": 28.1494140625, "image_reward": 0.7658597230911255}
+{"filename": "outputs/sweep_cfgmpp_w5/00209/samples/00000.png", "tag": "counting", "prompt": "a photo of three kites", "hpsv2": 25.634765625, "image_reward": 0.6655043959617615}
+{"filename": "outputs/sweep_cfgmpp_w5/00210/samples/00000.png", "tag": "counting", "prompt": "a photo of four apples", "hpsv2": 27.63671875, "image_reward": 0.2353220134973526}
+{"filename": "outputs/sweep_cfgmpp_w5/00211/samples/00000.png", "tag": "counting", "prompt": "a photo of three cell phones", "hpsv2": 28.4912109375, "image_reward": 0.19714626669883728}
+{"filename": "outputs/sweep_cfgmpp_w5/00212/samples/00000.png", "tag": "counting", "prompt": "a photo of four baseball gloves", "hpsv2": 28.173828125, "image_reward": 1.5386022329330444}
+{"filename": "outputs/sweep_cfgmpp_w5/00213/samples/00000.png", "tag": "counting", "prompt": "a photo of three computer keyboards", "hpsv2": 27.734375, "image_reward": 0.8005684018135071}
+{"filename": "outputs/sweep_cfgmpp_w5/00214/samples/00000.png", "tag": "counting", "prompt": "a photo of two beds", "hpsv2": 26.953125, "image_reward": 0.43768176436424255}
+{"filename": "outputs/sweep_cfgmpp_w5/00215/samples/00000.png", "tag": "counting", "prompt": "a photo of two tv remotes", "hpsv2": 28.1005859375, "image_reward": 0.7789636850357056}
+{"filename": "outputs/sweep_cfgmpp_w5/00216/samples/00000.png", "tag": "counting", "prompt": "a photo of three fire hydrants", "hpsv2": 27.9296875, "image_reward": 1.2921627759933472}
+{"filename": "outputs/sweep_cfgmpp_w5/00217/samples/00000.png", "tag": "counting", "prompt": "a photo of three books", "hpsv2": 27.880859375, "image_reward": 1.149858832359314}
+{"filename": "outputs/sweep_cfgmpp_w5/00218/samples/00000.png", "tag": "counting", "prompt": "a photo of four giraffes", "hpsv2": 29.4189453125, "image_reward": 0.5525087118148804}
+{"filename": "outputs/sweep_cfgmpp_w5/00219/samples/00000.png", "tag": "counting", "prompt": "a photo of two vases", "hpsv2": 28.515625, "image_reward": 1.4729619026184082}
+{"filename": "outputs/sweep_cfgmpp_w5/00220/samples/00000.png", "tag": "counting", "prompt": "a photo of four donuts", "hpsv2": 30.5908203125, "image_reward": 1.3755797147750854}
+{"filename": "outputs/sweep_cfgmpp_w5/00221/samples/00000.png", "tag": "counting", "prompt": "a photo of four chairs", "hpsv2": 28.5888671875, "image_reward": 0.6835111975669861}
+{"filename": "outputs/sweep_cfgmpp_w5/00222/samples/00000.png", "tag": "counting", "prompt": "a photo of three baseball bats", "hpsv2": 28.564453125, "image_reward": 1.2111753225326538}
+{"filename": "outputs/sweep_cfgmpp_w5/00223/samples/00000.png", "tag": "counting", "prompt": "a photo of four stop signs", "hpsv2": 27.8076171875, "image_reward": 1.2461540699005127}
+{"filename": "outputs/sweep_cfgmpp_w5/00224/samples/00000.png", "tag": "counting", "prompt": "a photo of two pizzas", "hpsv2": 27.734375, "image_reward": -0.586420476436615}
+{"filename": "outputs/sweep_cfgmpp_w5/00225/samples/00000.png", "tag": "counting", "prompt": "a photo of three refrigerators", "hpsv2": 27.3193359375, "image_reward": 0.4881722927093506}
+{"filename": "outputs/sweep_cfgmpp_w5/00226/samples/00000.png", "tag": "counting", "prompt": "a photo of two fire hydrants", "hpsv2": 27.3193359375, "image_reward": 0.9797492027282715}
+{"filename": "outputs/sweep_cfgmpp_w5/00227/samples/00000.png", "tag": "counting", "prompt": "a photo of three giraffes", "hpsv2": 30.95703125, "image_reward": 0.49181896448135376}
+{"filename": "outputs/sweep_cfgmpp_w5/00228/samples/00000.png", "tag": "counting", "prompt": "a photo of four tvs", "hpsv2": 27.24609375, "image_reward": 1.0335227251052856}
+{"filename": "outputs/sweep_cfgmpp_w5/00229/samples/00000.png", "tag": "counting", "prompt": "a photo of three wine glasses", "hpsv2": 29.296875, "image_reward": 0.6023586988449097}
+{"filename": "outputs/sweep_cfgmpp_w5/00230/samples/00000.png", "tag": "counting", "prompt": "a photo of four broccolis", "hpsv2": 29.58984375, "image_reward": 0.8027234077453613}
+{"filename": "outputs/sweep_cfgmpp_w5/00231/samples/00000.png", "tag": "counting", "prompt": "a photo of three trucks", "hpsv2": 30.3466796875, "image_reward": 1.1496344804763794}
+{"filename": "outputs/sweep_cfgmpp_w5/00232/samples/00000.png", "tag": "counting", "prompt": "a photo of two trucks", "hpsv2": 26.0498046875, "image_reward": 0.16379281878471375}
+{"filename": "outputs/sweep_cfgmpp_w5/00233/samples/00000.png", "tag": "counting", "prompt": "a photo of two carrots", "hpsv2": 27.490234375, "image_reward": 0.599078357219696}
+{"filename": "outputs/sweep_cfgmpp_w5/00234/samples/00000.png", "tag": "counting", "prompt": "a photo of two sandwichs", "hpsv2": 29.052734375, "image_reward": 0.3734775483608246}
+{"filename": "outputs/sweep_cfgmpp_w5/00235/samples/00000.png", "tag": "counting", "prompt": "a photo of four traffic lights", "hpsv2": 26.8310546875, "image_reward": 0.7833966016769409}
+{"filename": "outputs/sweep_cfgmpp_w5/00236/samples/00000.png", "tag": "counting", "prompt": "a photo of four clocks", "hpsv2": 28.7841796875, "image_reward": 0.9533619284629822}
+{"filename": "outputs/sweep_cfgmpp_w5/00237/samples/00000.png", "tag": "counting", "prompt": "a photo of two cars", "hpsv2": 28.5888671875, "image_reward": 1.0872501134872437}
+{"filename": "outputs/sweep_cfgmpp_w5/00238/samples/00000.png", "tag": "counting", "prompt": "a photo of two bananas", "hpsv2": 27.63671875, "image_reward": 0.9420191049575806}
+{"filename": "outputs/sweep_cfgmpp_w5/00239/samples/00000.png", "tag": "counting", "prompt": "a photo of two wine glasses", "hpsv2": 28.466796875, "image_reward": 0.952750027179718}
+{"filename": "outputs/sweep_cfgmpp_w5/00240/samples/00000.png", "tag": "counting", "prompt": "a photo of three pizzas", "hpsv2": 27.6123046875, "image_reward": 0.037425823509693146}
+{"filename": "outputs/sweep_cfgmpp_w5/00241/samples/00000.png", "tag": "counting", "prompt": "a photo of four knifes", "hpsv2": 30.6884765625, "image_reward": 1.2290904521942139}
+{"filename": "outputs/sweep_cfgmpp_w5/00242/samples/00000.png", "tag": "counting", "prompt": "a photo of three suitcases", "hpsv2": 29.39453125, "image_reward": 0.5148105025291443}
+{"filename": "outputs/sweep_cfgmpp_w5/00243/samples/00000.png", "tag": "counting", "prompt": "a photo of four zebras", "hpsv2": 27.63671875, "image_reward": 0.753807008266449}
+{"filename": "outputs/sweep_cfgmpp_w5/00244/samples/00000.png", "tag": "counting", "prompt": "a photo of two teddy bears", "hpsv2": 30.7861328125, "image_reward": 1.3969396352767944}
+{"filename": "outputs/sweep_cfgmpp_w5/00245/samples/00000.png", "tag": "counting", "prompt": "a photo of four skateboards", "hpsv2": 30.6640625, "image_reward": 1.3336632251739502}
+{"filename": "outputs/sweep_cfgmpp_w5/00246/samples/00000.png", "tag": "counting", "prompt": "a photo of four hot dogs", "hpsv2": 27.83203125, "image_reward": 0.21850670874118805}
+{"filename": "outputs/sweep_cfgmpp_w5/00247/samples/00000.png", "tag": "counting", "prompt": "a photo of three birds", "hpsv2": 27.63671875, "image_reward": -0.4343239963054657}
+{"filename": "outputs/sweep_cfgmpp_w5/00248/samples/00000.png", "tag": "counting", "prompt": "a photo of four boats", "hpsv2": 28.80859375, "image_reward": 0.8241471648216248}
+{"filename": "outputs/sweep_cfgmpp_w5/00249/samples/00000.png", "tag": "counting", "prompt": "a photo of four microwaves", "hpsv2": 27.44140625, "image_reward": 1.0624014139175415}
+{"filename": "outputs/sweep_cfgmpp_w5/00250/samples/00000.png", "tag": "counting", "prompt": "a photo of two hair driers", "hpsv2": 30.029296875, "image_reward": 1.3861665725708008}
+{"filename": "outputs/sweep_cfgmpp_w5/00251/samples/00000.png", "tag": "counting", "prompt": "a photo of three laptops", "hpsv2": 27.0751953125, "image_reward": 0.7127171754837036}
+{"filename": "outputs/sweep_cfgmpp_w5/00252/samples/00000.png", "tag": "counting", "prompt": "a photo of three cows", "hpsv2": 28.61328125, "image_reward": 0.5076702833175659}
+{"filename": "outputs/sweep_cfgmpp_w5/00253/samples/00000.png", "tag": "counting", "prompt": "a photo of two parking meters", "hpsv2": 27.294921875, "image_reward": 1.39022958278656}
+{"filename": "outputs/sweep_cfgmpp_w5/00254/samples/00000.png", "tag": "counting", "prompt": "a photo of four benchs", "hpsv2": 26.416015625, "image_reward": 0.9487541913986206}
+{"filename": "outputs/sweep_cfgmpp_w5/00255/samples/00000.png", "tag": "counting", "prompt": "a photo of three benchs", "hpsv2": 27.6123046875, "image_reward": 0.3043961524963379}
+{"filename": "outputs/sweep_cfgmpp_w5/00256/samples/00000.png", "tag": "counting", "prompt": "a photo of four frisbees", "hpsv2": 28.90625, "image_reward": 0.7594878077507019}
+{"filename": "outputs/sweep_cfgmpp_w5/00257/samples/00000.png", "tag": "counting", "prompt": "a photo of four books", "hpsv2": 26.0498046875, "image_reward": 0.6622003316879272}
+{"filename": "outputs/sweep_cfgmpp_w5/00258/samples/00000.png", "tag": "counting", "prompt": "a photo of four buses", "hpsv2": 27.490234375, "image_reward": 0.8864250183105469}
+{"filename": "outputs/sweep_cfgmpp_w5/00259/samples/00000.png", "tag": "colors", "prompt": "a photo of a blue fire hydrant", "hpsv2": 28.3203125, "image_reward": 1.3901166915893555}
+{"filename": "outputs/sweep_cfgmpp_w5/00260/samples/00000.png", "tag": "colors", "prompt": "a photo of a pink car", "hpsv2": 28.3203125, "image_reward": 1.4856876134872437}
+{"filename": "outputs/sweep_cfgmpp_w5/00261/samples/00000.png", "tag": "colors", "prompt": "a photo of a purple cup", "hpsv2": 27.978515625, "image_reward": 1.0393213033676147}
+{"filename": "outputs/sweep_cfgmpp_w5/00262/samples/00000.png", "tag": "colors", "prompt": "a photo of a blue cow", "hpsv2": 29.78515625, "image_reward": 1.8837521076202393}
+{"filename": "outputs/sweep_cfgmpp_w5/00263/samples/00000.png", "tag": "colors", "prompt": "a photo of a yellow boat", "hpsv2": 28.7841796875, "image_reward": 0.9414404034614563}
+{"filename": "outputs/sweep_cfgmpp_w5/00264/samples/00000.png", "tag": "colors", "prompt": "a photo of a blue umbrella", "hpsv2": 28.41796875, "image_reward": 1.101252794265747}
+{"filename": "outputs/sweep_cfgmpp_w5/00265/samples/00000.png", "tag": "colors", "prompt": "a photo of a blue elephant", "hpsv2": 29.5654296875, "image_reward": 1.635722041130066}
+{"filename": "outputs/sweep_cfgmpp_w5/00266/samples/00000.png", "tag": "colors", "prompt": "a photo of a yellow elephant", "hpsv2": 30.2001953125, "image_reward": 1.3793455362319946}
+{"filename": "outputs/sweep_cfgmpp_w5/00267/samples/00000.png", "tag": "colors", "prompt": "a photo of a red bicycle", "hpsv2": 28.759765625, "image_reward": 1.4786162376403809}
+{"filename": "outputs/sweep_cfgmpp_w5/00268/samples/00000.png", "tag": "colors", "prompt": "a photo of a purple suitcase", "hpsv2": 28.076171875, "image_reward": 0.9087916016578674}
+{"filename": "outputs/sweep_cfgmpp_w5/00269/samples/00000.png", "tag": "colors", "prompt": "a photo of a purple hair drier", "hpsv2": 28.90625, "image_reward": 1.8437923192977905}
+{"filename": "outputs/sweep_cfgmpp_w5/00270/samples/00000.png", "tag": "colors", "prompt": "a photo of a white sandwich", "hpsv2": 28.8330078125, "image_reward": 0.24915675818920135}
+{"filename": "outputs/sweep_cfgmpp_w5/00271/samples/00000.png", "tag": "colors", "prompt": "a photo of a purple elephant", "hpsv2": 28.7109375, "image_reward": 0.9853442907333374}
+{"filename": "outputs/sweep_cfgmpp_w5/00272/samples/00000.png", "tag": "colors", "prompt": "a photo of a green microwave", "hpsv2": 29.00390625, "image_reward": 0.9725914597511292}
+{"filename": "outputs/sweep_cfgmpp_w5/00273/samples/00000.png", "tag": "colors", "prompt": "a photo of a red zebra", "hpsv2": 30.2490234375, "image_reward": 0.5287978053092957}
+{"filename": "outputs/sweep_cfgmpp_w5/00274/samples/00000.png", "tag": "colors", "prompt": "a photo of a red apple", "hpsv2": 28.80859375, "image_reward": 0.6293197274208069}
+{"filename": "outputs/sweep_cfgmpp_w5/00275/samples/00000.png", "tag": "colors", "prompt": "a photo of a yellow tv remote", "hpsv2": 28.2470703125, "image_reward": 1.6464072465896606}
+{"filename": "outputs/sweep_cfgmpp_w5/00276/samples/00000.png", "tag": "colors", "prompt": "a photo of a blue toilet", "hpsv2": 29.5654296875, "image_reward": 1.4376966953277588}
+{"filename": "outputs/sweep_cfgmpp_w5/00277/samples/00000.png", "tag": "colors", "prompt": "a photo of an orange orange", "hpsv2": 26.220703125, "image_reward": 0.5851386189460754}
+{"filename": "outputs/sweep_cfgmpp_w5/00278/samples/00000.png", "tag": "colors", "prompt": "a photo of a black donut", "hpsv2": 29.6142578125, "image_reward": 1.617659091949463}
+{"filename": "outputs/sweep_cfgmpp_w5/00279/samples/00000.png", "tag": "colors", "prompt": "a photo of a red vase", "hpsv2": 28.955078125, "image_reward": 1.469928503036499}
+{"filename": "outputs/sweep_cfgmpp_w5/00280/samples/00000.png", "tag": "colors", "prompt": "a photo of a purple pizza", "hpsv2": 28.1982421875, "image_reward": 1.5948928594589233}
+{"filename": "outputs/sweep_cfgmpp_w5/00281/samples/00000.png", "tag": "colors", "prompt": "a photo of a pink skateboard", "hpsv2": 29.7119140625, "image_reward": 1.5886178016662598}
+{"filename": "outputs/sweep_cfgmpp_w5/00282/samples/00000.png", "tag": "colors", "prompt": "a photo of a green skateboard", "hpsv2": 29.248046875, "image_reward": 0.6592119336128235}
+{"filename": "outputs/sweep_cfgmpp_w5/00283/samples/00000.png", "tag": "colors", "prompt": "a photo of a purple bear", "hpsv2": 30.95703125, "image_reward": 1.756967544555664}
+{"filename": "outputs/sweep_cfgmpp_w5/00284/samples/00000.png", "tag": "colors", "prompt": "a photo of a brown chair", "hpsv2": 28.5400390625, "image_reward": 0.883388876914978}
+{"filename": "outputs/sweep_cfgmpp_w5/00285/samples/00000.png", "tag": "colors", "prompt": "a photo of a brown computer keyboard", "hpsv2": 28.564453125, "image_reward": 1.552555799484253}
+{"filename": "outputs/sweep_cfgmpp_w5/00286/samples/00000.png", "tag": "colors", "prompt": "a photo of an orange cow", "hpsv2": 29.1748046875, "image_reward": 0.9198203086853027}
+{"filename": "outputs/sweep_cfgmpp_w5/00287/samples/00000.png", "tag": "colors", "prompt": "a photo of a brown skis", "hpsv2": 29.3212890625, "image_reward": -0.5239060521125793}
+{"filename": "outputs/sweep_cfgmpp_w5/00288/samples/00000.png", "tag": "colors", "prompt": "a photo of a white kite", "hpsv2": 28.369140625, "image_reward": 1.0439118146896362}
+{"filename": "outputs/sweep_cfgmpp_w5/00289/samples/00000.png", "tag": "colors", "prompt": "a photo of a red dog", "hpsv2": 26.9775390625, "image_reward": 0.03673125058412552}
+{"filename": "outputs/sweep_cfgmpp_w5/00290/samples/00000.png", "tag": "colors", "prompt": "a photo of a green couch", "hpsv2": 27.9541015625, "image_reward": 0.9294639825820923}
+{"filename": "outputs/sweep_cfgmpp_w5/00291/samples/00000.png", "tag": "colors", "prompt": "a photo of a yellow airplane", "hpsv2": 29.1748046875, "image_reward": 0.8563944697380066}
+{"filename": "outputs/sweep_cfgmpp_w5/00292/samples/00000.png", "tag": "colors", "prompt": "a photo of an orange tv", "hpsv2": 29.443359375, "image_reward": 1.394608497619629}
+{"filename": "outputs/sweep_cfgmpp_w5/00293/samples/00000.png", "tag": "colors", "prompt": "a photo of a white scissors", "hpsv2": 28.4912109375, "image_reward": 0.44465887546539307}
+{"filename": "outputs/sweep_cfgmpp_w5/00294/samples/00000.png", "tag": "colors", "prompt": "a photo of a pink cell phone", "hpsv2": 29.4189453125, "image_reward": 0.6080514788627625}
+{"filename": "outputs/sweep_cfgmpp_w5/00295/samples/00000.png", "tag": "colors", "prompt": "a photo of a green surfboard", "hpsv2": 28.02734375, "image_reward": 0.2314271777868271}
+{"filename": "outputs/sweep_cfgmpp_w5/00296/samples/00000.png", "tag": "colors", "prompt": "a photo of a white fire hydrant", "hpsv2": 28.7109375, "image_reward": 1.1581330299377441}
+{"filename": "outputs/sweep_cfgmpp_w5/00297/samples/00000.png", "tag": "colors", "prompt": "a photo of a black bicycle", "hpsv2": 28.5400390625, "image_reward": 0.5442591309547424}
+{"filename": "outputs/sweep_cfgmpp_w5/00298/samples/00000.png", "tag": "colors", "prompt": "a photo of a purple carrot", "hpsv2": 26.806640625, "image_reward": 1.0413175821304321}
+{"filename": "outputs/sweep_cfgmpp_w5/00299/samples/00000.png", "tag": "colors", "prompt": "a photo of a black dining table", "hpsv2": 28.5400390625, "image_reward": 0.880415141582489}
+{"filename": "outputs/sweep_cfgmpp_w5/00300/samples/00000.png", "tag": "colors", "prompt": "a photo of a purple potted plant", "hpsv2": 27.6611328125, "image_reward": 1.5880370140075684}
+{"filename": "outputs/sweep_cfgmpp_w5/00301/samples/00000.png", "tag": "colors", "prompt": "a photo of a purple backpack", "hpsv2": 27.880859375, "image_reward": 1.1797618865966797}
+{"filename": "outputs/sweep_cfgmpp_w5/00302/samples/00000.png", "tag": "colors", "prompt": "a photo of a yellow train", "hpsv2": 28.3935546875, "image_reward": 0.45554661750793457}
+{"filename": "outputs/sweep_cfgmpp_w5/00303/samples/00000.png", "tag": "colors", "prompt": "a photo of a pink potted plant", "hpsv2": 28.0029296875, "image_reward": 1.801716923713684}
+{"filename": "outputs/sweep_cfgmpp_w5/00304/samples/00000.png", "tag": "colors", "prompt": "a photo of a red giraffe", "hpsv2": 28.22265625, "image_reward": -1.9575468301773071}
+{"filename": "outputs/sweep_cfgmpp_w5/00305/samples/00000.png", "tag": "colors", "prompt": "a photo of a brown bear", "hpsv2": 28.2470703125, "image_reward": 0.5430115461349487}
+{"filename": "outputs/sweep_cfgmpp_w5/00306/samples/00000.png", "tag": "colors", "prompt": "a photo of a black train", "hpsv2": 28.90625, "image_reward": 0.7157337069511414}
+{"filename": "outputs/sweep_cfgmpp_w5/00307/samples/00000.png", "tag": "colors", "prompt": "a photo of an orange laptop", "hpsv2": 29.5654296875, "image_reward": 1.5862094163894653}
+{"filename": "outputs/sweep_cfgmpp_w5/00308/samples/00000.png", "tag": "colors", "prompt": "a photo of a green hot dog", "hpsv2": 28.0517578125, "image_reward": -1.8627206087112427}
+{"filename": "outputs/sweep_cfgmpp_w5/00309/samples/00000.png", "tag": "colors", "prompt": "a photo of a yellow parking meter", "hpsv2": 28.3935546875, "image_reward": 1.527933120727539}
+{"filename": "outputs/sweep_cfgmpp_w5/00310/samples/00000.png", "tag": "colors", "prompt": "a photo of a red potted plant", "hpsv2": 27.44140625, "image_reward": 1.563739538192749}
+{"filename": "outputs/sweep_cfgmpp_w5/00311/samples/00000.png", "tag": "colors", "prompt": "a photo of a green traffic light", "hpsv2": 27.880859375, "image_reward": -0.2371322065591812}
+{"filename": "outputs/sweep_cfgmpp_w5/00312/samples/00000.png", "tag": "colors", "prompt": "a photo of a blue tv", "hpsv2": 28.22265625, "image_reward": 1.3632718324661255}
+{"filename": "outputs/sweep_cfgmpp_w5/00313/samples/00000.png", "tag": "colors", "prompt": "a photo of a brown refrigerator", "hpsv2": 26.9287109375, "image_reward": -0.25093239545822144}
+{"filename": "outputs/sweep_cfgmpp_w5/00314/samples/00000.png", "tag": "colors", "prompt": "a photo of a black tv remote", "hpsv2": 28.22265625, "image_reward": 0.4592834711074829}
+{"filename": "outputs/sweep_cfgmpp_w5/00315/samples/00000.png", "tag": "colors", "prompt": "a photo of a purple scissors", "hpsv2": 29.736328125, "image_reward": 1.4257099628448486}
+{"filename": "outputs/sweep_cfgmpp_w5/00316/samples/00000.png", "tag": "colors", "prompt": "a photo of a yellow orange", "hpsv2": 26.416015625, "image_reward": 0.5949265360832214}
+{"filename": "outputs/sweep_cfgmpp_w5/00317/samples/00000.png", "tag": "colors", "prompt": "a photo of a brown toaster", "hpsv2": 29.7607421875, "image_reward": 1.1972408294677734}
+{"filename": "outputs/sweep_cfgmpp_w5/00318/samples/00000.png", "tag": "colors", "prompt": "a photo of a red parking meter", "hpsv2": 28.0517578125, "image_reward": 0.16961009800434113}
+{"filename": "outputs/sweep_cfgmpp_w5/00319/samples/00000.png", "tag": "colors", "prompt": "a photo of a brown orange", "hpsv2": 25.3662109375, "image_reward": -1.019768476486206}
+{"filename": "outputs/sweep_cfgmpp_w5/00320/samples/00000.png", "tag": "colors", "prompt": "a photo of a green clock", "hpsv2": 27.734375, "image_reward": 0.43245190382003784}
+{"filename": "outputs/sweep_cfgmpp_w5/00321/samples/00000.png", "tag": "colors", "prompt": "a photo of a white sheep", "hpsv2": 30.029296875, "image_reward": 0.8837198615074158}
+{"filename": "outputs/sweep_cfgmpp_w5/00322/samples/00000.png", "tag": "colors", "prompt": "a photo of a yellow oven", "hpsv2": 29.4189453125, "image_reward": 1.8866896629333496}
+{"filename": "outputs/sweep_cfgmpp_w5/00323/samples/00000.png", "tag": "colors", "prompt": "a photo of a green vase", "hpsv2": 28.9306640625, "image_reward": 1.1507200002670288}
+{"filename": "outputs/sweep_cfgmpp_w5/00324/samples/00000.png", "tag": "colors", "prompt": "a photo of a black teddy bear", "hpsv2": 28.564453125, "image_reward": 1.298223614692688}
+{"filename": "outputs/sweep_cfgmpp_w5/00325/samples/00000.png", "tag": "colors", "prompt": "a photo of a yellow carrot", "hpsv2": 25.5126953125, "image_reward": -1.8004854917526245}
+{"filename": "outputs/sweep_cfgmpp_w5/00326/samples/00000.png", "tag": "colors", "prompt": "a photo of a black hot dog", "hpsv2": 27.24609375, "image_reward": -0.06917110085487366}
+{"filename": "outputs/sweep_cfgmpp_w5/00327/samples/00000.png", "tag": "colors", "prompt": "a photo of a red scissors", "hpsv2": 26.953125, "image_reward": 0.8090865015983582}
+{"filename": "outputs/sweep_cfgmpp_w5/00328/samples/00000.png", "tag": "colors", "prompt": "a photo of a white teddy bear", "hpsv2": 30.078125, "image_reward": 0.9474366307258606}
+{"filename": "outputs/sweep_cfgmpp_w5/00329/samples/00000.png", "tag": "colors", "prompt": "a photo of a black skis", "hpsv2": 30.419921875, "image_reward": -0.6670433878898621}
+{"filename": "outputs/sweep_cfgmpp_w5/00330/samples/00000.png", "tag": "colors", "prompt": "a photo of a blue dining table", "hpsv2": 28.41796875, "image_reward": 1.7176421880722046}
+{"filename": "outputs/sweep_cfgmpp_w5/00331/samples/00000.png", "tag": "colors", "prompt": "a photo of a black refrigerator", "hpsv2": 28.564453125, "image_reward": 0.6550058126449585}
+{"filename": "outputs/sweep_cfgmpp_w5/00332/samples/00000.png", "tag": "colors", "prompt": "a photo of a white dog", "hpsv2": 28.8330078125, "image_reward": 1.5968176126480103}
+{"filename": "outputs/sweep_cfgmpp_w5/00333/samples/00000.png", "tag": "colors", "prompt": "a photo of an orange scissors", "hpsv2": 28.0517578125, "image_reward": 1.3857008218765259}
+{"filename": "outputs/sweep_cfgmpp_w5/00334/samples/00000.png", "tag": "colors", "prompt": "a photo of a red cell phone", "hpsv2": 29.2236328125, "image_reward": 0.6572045683860779}
+{"filename": "outputs/sweep_cfgmpp_w5/00335/samples/00000.png", "tag": "colors", "prompt": "a photo of a white orange", "hpsv2": 27.001953125, "image_reward": 0.1365811973810196}
+{"filename": "outputs/sweep_cfgmpp_w5/00336/samples/00000.png", "tag": "colors", "prompt": "a photo of a blue clock", "hpsv2": 27.5634765625, "image_reward": 0.741807222366333}
+{"filename": "outputs/sweep_cfgmpp_w5/00337/samples/00000.png", "tag": "colors", "prompt": "a photo of a blue carrot", "hpsv2": 26.4892578125, "image_reward": 0.1882636845111847}
+{"filename": "outputs/sweep_cfgmpp_w5/00338/samples/00000.png", "tag": "colors", "prompt": "a photo of a green motorcycle", "hpsv2": 29.638671875, "image_reward": 0.6365121006965637}
+{"filename": "outputs/sweep_cfgmpp_w5/00339/samples/00000.png", "tag": "colors", "prompt": "a photo of a pink stop sign", "hpsv2": 28.2958984375, "image_reward": 1.5532987117767334}
+{"filename": "outputs/sweep_cfgmpp_w5/00340/samples/00000.png", "tag": "colors", "prompt": "a photo of a black vase", "hpsv2": 29.638671875, "image_reward": 1.4008266925811768}
+{"filename": "outputs/sweep_cfgmpp_w5/00341/samples/00000.png", "tag": "colors", "prompt": "a photo of a black backpack", "hpsv2": 26.8798828125, "image_reward": -0.4289769232273102}
+{"filename": "outputs/sweep_cfgmpp_w5/00342/samples/00000.png", "tag": "colors", "prompt": "a photo of a red car", "hpsv2": 26.6357421875, "image_reward": 0.17069436609745026}
+{"filename": "outputs/sweep_cfgmpp_w5/00343/samples/00000.png", "tag": "colors", "prompt": "a photo of a green computer mouse", "hpsv2": 31.103515625, "image_reward": 1.1661049127578735}
+{"filename": "outputs/sweep_cfgmpp_w5/00344/samples/00000.png", "tag": "colors", "prompt": "a photo of a red backpack", "hpsv2": 28.2470703125, "image_reward": 1.3854801654815674}
+{"filename": "outputs/sweep_cfgmpp_w5/00345/samples/00000.png", "tag": "colors", "prompt": "a photo of a green bus", "hpsv2": 29.58984375, "image_reward": 1.0484329462051392}
+{"filename": "outputs/sweep_cfgmpp_w5/00346/samples/00000.png", "tag": "colors", "prompt": "a photo of an orange toaster", "hpsv2": 29.98046875, "image_reward": 1.8251533508300781}
+{"filename": "outputs/sweep_cfgmpp_w5/00347/samples/00000.png", "tag": "colors", "prompt": "a photo of a yellow fork", "hpsv2": 29.8095703125, "image_reward": 1.532617211341858}
+{"filename": "outputs/sweep_cfgmpp_w5/00348/samples/00000.png", "tag": "colors", "prompt": "a photo of a pink parking meter", "hpsv2": 28.466796875, "image_reward": 1.3410991430282593}
+{"filename": "outputs/sweep_cfgmpp_w5/00349/samples/00000.png", "tag": "colors", "prompt": "a photo of a blue book", "hpsv2": 27.2705078125, "image_reward": 1.4425253868103027}
+{"filename": "outputs/sweep_cfgmpp_w5/00350/samples/00000.png", "tag": "colors", "prompt": "a photo of a yellow broccoli", "hpsv2": 26.9287109375, "image_reward": 0.8823254704475403}
+{"filename": "outputs/sweep_cfgmpp_w5/00351/samples/00000.png", "tag": "colors", "prompt": "a photo of an orange computer mouse", "hpsv2": 31.9580078125, "image_reward": 1.6536829471588135}
+{"filename": "outputs/sweep_cfgmpp_w5/00352/samples/00000.png", "tag": "colors", "prompt": "a photo of a red cake", "hpsv2": 28.3935546875, "image_reward": 1.1339802742004395}
+{"filename": "outputs/sweep_cfgmpp_w5/00353/samples/00000.png", "tag": "position", "prompt": "a photo of a dog right of a teddy bear", "hpsv2": 27.685546875, "image_reward": 0.008289649151265621}
+{"filename": "outputs/sweep_cfgmpp_w5/00354/samples/00000.png", "tag": "position", "prompt": "a photo of a wine glass above a kite", "hpsv2": 30.2490234375, "image_reward": 1.7825514078140259}
+{"filename": "outputs/sweep_cfgmpp_w5/00355/samples/00000.png", "tag": "position", "prompt": "a photo of a couch below a cup", "hpsv2": 27.490234375, "image_reward": 1.145645022392273}
+{"filename": "outputs/sweep_cfgmpp_w5/00356/samples/00000.png", "tag": "position", "prompt": "a photo of a laptop left of a cow", "hpsv2": 28.515625, "image_reward": 1.8157469034194946}
+{"filename": "outputs/sweep_cfgmpp_w5/00357/samples/00000.png", "tag": "position", "prompt": "a photo of a fork above a hair drier", "hpsv2": 26.123046875, "image_reward": -0.161887988448143}
+{"filename": "outputs/sweep_cfgmpp_w5/00358/samples/00000.png", "tag": "position", "prompt": "a photo of a tie right of a baseball bat", "hpsv2": 28.173828125, "image_reward": 1.795702576637268}
+{"filename": "outputs/sweep_cfgmpp_w5/00359/samples/00000.png", "tag": "position", "prompt": "a photo of a stop sign above a fork", "hpsv2": 30.0048828125, "image_reward": 1.1135451793670654}
+{"filename": "outputs/sweep_cfgmpp_w5/00360/samples/00000.png", "tag": "position", "prompt": "a photo of a bird below a skateboard", "hpsv2": 30.0048828125, "image_reward": 1.6025859117507935}
+{"filename": "outputs/sweep_cfgmpp_w5/00361/samples/00000.png", "tag": "position", "prompt": "a photo of an apple above a tv", "hpsv2": 29.443359375, "image_reward": 1.8318592309951782}
+{"filename": "outputs/sweep_cfgmpp_w5/00362/samples/00000.png", "tag": "position", "prompt": "a photo of a train above a potted plant", "hpsv2": 27.9052734375, "image_reward": 1.7493813037872314}
+{"filename": "outputs/sweep_cfgmpp_w5/00363/samples/00000.png", "tag": "position", "prompt": "a photo of a truck left of a refrigerator", "hpsv2": 28.271484375, "image_reward": 0.9126752018928528}
+{"filename": "outputs/sweep_cfgmpp_w5/00364/samples/00000.png", "tag": "position", "prompt": "a photo of a tv remote below a cow", "hpsv2": 31.54296875, "image_reward": 1.5344575643539429}
+{"filename": "outputs/sweep_cfgmpp_w5/00365/samples/00000.png", "tag": "position", "prompt": "a photo of a bottle right of a train", "hpsv2": 27.685546875, "image_reward": 1.6353726387023926}
+{"filename": "outputs/sweep_cfgmpp_w5/00366/samples/00000.png", "tag": "position", "prompt": "a photo of a dog above a cow", "hpsv2": 26.85546875, "image_reward": -0.13129101693630219}
+{"filename": "outputs/sweep_cfgmpp_w5/00367/samples/00000.png", "tag": "position", "prompt": "a photo of a skateboard above a person", "hpsv2": 26.6357421875, "image_reward": -0.807239294052124}
+{"filename": "outputs/sweep_cfgmpp_w5/00368/samples/00000.png", "tag": "position", "prompt": "a photo of a baseball glove below an umbrella", "hpsv2": 31.0546875, "image_reward": 1.780091404914856}
+{"filename": "outputs/sweep_cfgmpp_w5/00369/samples/00000.png", "tag": "position", "prompt": "a photo of a dining table right of an oven", "hpsv2": 27.2216796875, "image_reward": 0.9605190753936768}
+{"filename": "outputs/sweep_cfgmpp_w5/00370/samples/00000.png", "tag": "position", "prompt": "a photo of a hot dog left of a suitcase", "hpsv2": 29.2236328125, "image_reward": 1.0427942276000977}
+{"filename": "outputs/sweep_cfgmpp_w5/00371/samples/00000.png", "tag": "position", "prompt": "a photo of a bus below a toothbrush", "hpsv2": 27.7587890625, "image_reward": -1.2523062229156494}
+{"filename": "outputs/sweep_cfgmpp_w5/00372/samples/00000.png", "tag": "position", "prompt": "a photo of a backpack right of a sandwich", "hpsv2": 27.783203125, "image_reward": 1.3832017183303833}
+{"filename": "outputs/sweep_cfgmpp_w5/00373/samples/00000.png", "tag": "position", "prompt": "a photo of a cake below a baseball bat", "hpsv2": 30.7373046875, "image_reward": 1.440590262413025}
+{"filename": "outputs/sweep_cfgmpp_w5/00374/samples/00000.png", "tag": "position", "prompt": "a photo of a dog right of a tie", "hpsv2": 29.1259765625, "image_reward": 0.8217731714248657}
+{"filename": "outputs/sweep_cfgmpp_w5/00375/samples/00000.png", "tag": "position", "prompt": "a photo of a suitcase right of a boat", "hpsv2": 31.7138671875, "image_reward": 1.802363395690918}
+{"filename": "outputs/sweep_cfgmpp_w5/00376/samples/00000.png", "tag": "position", "prompt": "a photo of a bear above a clock", "hpsv2": 30.1025390625, "image_reward": 1.8526129722595215}
+{"filename": "outputs/sweep_cfgmpp_w5/00377/samples/00000.png", "tag": "position", "prompt": "a photo of a tv remote left of an umbrella", "hpsv2": 25.5615234375, "image_reward": -1.9683469533920288}
+{"filename": "outputs/sweep_cfgmpp_w5/00378/samples/00000.png", "tag": "position", "prompt": "a photo of a sports ball left of an umbrella", "hpsv2": 25.1953125, "image_reward": -1.4692059755325317}
+{"filename": "outputs/sweep_cfgmpp_w5/00379/samples/00000.png", "tag": "position", "prompt": "a photo of a train right of a dining table", "hpsv2": 25.341796875, "image_reward": -0.9809722304344177}
+{"filename": "outputs/sweep_cfgmpp_w5/00380/samples/00000.png", "tag": "position", "prompt": "a photo of a hair drier below an elephant", "hpsv2": 29.6875, "image_reward": 1.8270142078399658}
+{"filename": "outputs/sweep_cfgmpp_w5/00381/samples/00000.png", "tag": "position", "prompt": "a photo of a tennis racket right of a spoon", "hpsv2": 28.5400390625, "image_reward": 1.603257179260254}
+{"filename": "outputs/sweep_cfgmpp_w5/00382/samples/00000.png", "tag": "position", "prompt": "a photo of a wine glass right of a hot dog", "hpsv2": 26.5869140625, "image_reward": -0.06475421786308289}
+{"filename": "outputs/sweep_cfgmpp_w5/00383/samples/00000.png", "tag": "position", "prompt": "a photo of a computer mouse left of a bench", "hpsv2": 29.7607421875, "image_reward": 0.8280009627342224}
+{"filename": "outputs/sweep_cfgmpp_w5/00384/samples/00000.png", "tag": "position", "prompt": "a photo of a carrot left of an orange", "hpsv2": 27.587890625, "image_reward": -0.4079921841621399}
+{"filename": "outputs/sweep_cfgmpp_w5/00385/samples/00000.png", "tag": "position", "prompt": "a photo of a kite above a toothbrush", "hpsv2": 26.171875, "image_reward": -0.4194869101047516}
+{"filename": "outputs/sweep_cfgmpp_w5/00386/samples/00000.png", "tag": "position", "prompt": "a photo of a toaster below a traffic light", "hpsv2": 26.220703125, "image_reward": -1.5590519905090332}
+{"filename": "outputs/sweep_cfgmpp_w5/00387/samples/00000.png", "tag": "position", "prompt": "a photo of a cat below a baseball glove", "hpsv2": 30.615234375, "image_reward": 1.7931323051452637}
+{"filename": "outputs/sweep_cfgmpp_w5/00388/samples/00000.png", "tag": "position", "prompt": "a photo of a skis right of a zebra", "hpsv2": 30.224609375, "image_reward": 1.2374489307403564}
+{"filename": "outputs/sweep_cfgmpp_w5/00389/samples/00000.png", "tag": "position", "prompt": "a photo of a stop sign above a chair", "hpsv2": 29.8095703125, "image_reward": 1.185295581817627}
+{"filename": "outputs/sweep_cfgmpp_w5/00390/samples/00000.png", "tag": "position", "prompt": "a photo of a stop sign above a parking meter", "hpsv2": 28.3447265625, "image_reward": 0.9744950532913208}
+{"filename": "outputs/sweep_cfgmpp_w5/00391/samples/00000.png", "tag": "position", "prompt": "a photo of a hot dog right of a skateboard", "hpsv2": 30.1025390625, "image_reward": 1.7358710765838623}
+{"filename": "outputs/sweep_cfgmpp_w5/00392/samples/00000.png", "tag": "position", "prompt": "a photo of a pizza below a computer keyboard", "hpsv2": 29.7119140625, "image_reward": 1.3124643564224243}
+{"filename": "outputs/sweep_cfgmpp_w5/00393/samples/00000.png", "tag": "position", "prompt": "a photo of a hair drier left of a toilet", "hpsv2": 29.2236328125, "image_reward": 1.7407015562057495}
+{"filename": "outputs/sweep_cfgmpp_w5/00394/samples/00000.png", "tag": "position", "prompt": "a photo of a cow left of a stop sign", "hpsv2": 28.0029296875, "image_reward": 1.2854808568954468}
+{"filename": "outputs/sweep_cfgmpp_w5/00395/samples/00000.png", "tag": "position", "prompt": "a photo of a suitcase above a skis", "hpsv2": 31.396484375, "image_reward": 1.4330357313156128}
+{"filename": "outputs/sweep_cfgmpp_w5/00396/samples/00000.png", "tag": "position", "prompt": "a photo of a book above a laptop", "hpsv2": 25.5859375, "image_reward": 1.1022284030914307}
+{"filename": "outputs/sweep_cfgmpp_w5/00397/samples/00000.png", "tag": "position", "prompt": "a photo of a toothbrush below a pizza", "hpsv2": 29.3701171875, "image_reward": 1.7187912464141846}
+{"filename": "outputs/sweep_cfgmpp_w5/00398/samples/00000.png", "tag": "position", "prompt": "a photo of a toilet left of a kite", "hpsv2": 27.6123046875, "image_reward": -1.120930552482605}
+{"filename": "outputs/sweep_cfgmpp_w5/00399/samples/00000.png", "tag": "position", "prompt": "a photo of a tie above a sink", "hpsv2": 28.1005859375, "image_reward": 0.6649463772773743}
+{"filename": "outputs/sweep_cfgmpp_w5/00400/samples/00000.png", "tag": "position", "prompt": "a photo of a bird left of a couch", "hpsv2": 30.517578125, "image_reward": 0.9718299508094788}
+{"filename": "outputs/sweep_cfgmpp_w5/00401/samples/00000.png", "tag": "position", "prompt": "a photo of a bed right of a sports ball", "hpsv2": 29.9072265625, "image_reward": 1.4806711673736572}
+{"filename": "outputs/sweep_cfgmpp_w5/00402/samples/00000.png", "tag": "position", "prompt": "a photo of an elephant below a surfboard", "hpsv2": 30.908203125, "image_reward": 1.125402808189392}
+{"filename": "outputs/sweep_cfgmpp_w5/00403/samples/00000.png", "tag": "position", "prompt": "a photo of a frisbee right of a motorcycle", "hpsv2": 27.5634765625, "image_reward": 1.3500843048095703}
+{"filename": "outputs/sweep_cfgmpp_w5/00404/samples/00000.png", "tag": "position", "prompt": "a photo of a vase above a fire hydrant", "hpsv2": 27.099609375, "image_reward": -0.15077035129070282}
+{"filename": "outputs/sweep_cfgmpp_w5/00405/samples/00000.png", "tag": "position", "prompt": "a photo of a zebra left of an elephant", "hpsv2": 30.859375, "image_reward": 1.2174924612045288}
+{"filename": "outputs/sweep_cfgmpp_w5/00406/samples/00000.png", "tag": "position", "prompt": "a photo of a bench left of a bear", "hpsv2": 28.0029296875, "image_reward": 0.3346751630306244}
+{"filename": "outputs/sweep_cfgmpp_w5/00407/samples/00000.png", "tag": "position", "prompt": "a photo of a donut right of a bench", "hpsv2": 29.4921875, "image_reward": 1.6548923254013062}
+{"filename": "outputs/sweep_cfgmpp_w5/00408/samples/00000.png", "tag": "position", "prompt": "a photo of a frisbee below a horse", "hpsv2": 28.173828125, "image_reward": 1.1026636362075806}
+{"filename": "outputs/sweep_cfgmpp_w5/00409/samples/00000.png", "tag": "position", "prompt": "a photo of a computer keyboard above a snowboard", "hpsv2": 27.880859375, "image_reward": -0.32971155643463135}
+{"filename": "outputs/sweep_cfgmpp_w5/00410/samples/00000.png", "tag": "position", "prompt": "a photo of a tv below a cow", "hpsv2": 29.6875, "image_reward": 1.3139654397964478}
+{"filename": "outputs/sweep_cfgmpp_w5/00411/samples/00000.png", "tag": "position", "prompt": "a photo of an elephant below a horse", "hpsv2": 26.5869140625, "image_reward": -1.5346590280532837}
+{"filename": "outputs/sweep_cfgmpp_w5/00412/samples/00000.png", "tag": "position", "prompt": "a photo of a suitcase left of a banana", "hpsv2": 29.9072265625, "image_reward": 0.6311004757881165}
+{"filename": "outputs/sweep_cfgmpp_w5/00413/samples/00000.png", "tag": "position", "prompt": "a photo of a train below an airplane", "hpsv2": 28.9306640625, "image_reward": 1.4458554983139038}
+{"filename": "outputs/sweep_cfgmpp_w5/00414/samples/00000.png", "tag": "position", "prompt": "a photo of a cat below a backpack", "hpsv2": 28.9794921875, "image_reward": 1.589341402053833}
+{"filename": "outputs/sweep_cfgmpp_w5/00415/samples/00000.png", "tag": "position", "prompt": "a photo of a backpack below a cake", "hpsv2": 27.9296875, "image_reward": -1.5477339029312134}
+{"filename": "outputs/sweep_cfgmpp_w5/00416/samples/00000.png", "tag": "position", "prompt": "a photo of a sandwich below a knife", "hpsv2": 28.3203125, "image_reward": 1.2120784521102905}
+{"filename": "outputs/sweep_cfgmpp_w5/00417/samples/00000.png", "tag": "position", "prompt": "a photo of a bicycle above a parking meter", "hpsv2": 27.6123046875, "image_reward": 1.4575692415237427}
+{"filename": "outputs/sweep_cfgmpp_w5/00418/samples/00000.png", "tag": "position", "prompt": "a photo of a knife right of a suitcase", "hpsv2": 27.05078125, "image_reward": -0.4048674702644348}
+{"filename": "outputs/sweep_cfgmpp_w5/00419/samples/00000.png", "tag": "position", "prompt": "a photo of a hot dog above a knife", "hpsv2": 27.4658203125, "image_reward": 0.7585074305534363}
+{"filename": "outputs/sweep_cfgmpp_w5/00420/samples/00000.png", "tag": "position", "prompt": "a photo of a zebra right of a parking meter", "hpsv2": 31.787109375, "image_reward": 1.805435299873352}
+{"filename": "outputs/sweep_cfgmpp_w5/00421/samples/00000.png", "tag": "position", "prompt": "a photo of a chair left of a zebra", "hpsv2": 29.0283203125, "image_reward": 0.03461942821741104}
+{"filename": "outputs/sweep_cfgmpp_w5/00422/samples/00000.png", "tag": "position", "prompt": "a photo of a cow below an airplane", "hpsv2": 29.5654296875, "image_reward": 1.5431785583496094}
+{"filename": "outputs/sweep_cfgmpp_w5/00423/samples/00000.png", "tag": "position", "prompt": "a photo of a cup left of an umbrella", "hpsv2": 27.9541015625, "image_reward": 1.1772270202636719}
+{"filename": "outputs/sweep_cfgmpp_w5/00424/samples/00000.png", "tag": "position", "prompt": "a photo of a zebra below a computer keyboard", "hpsv2": 28.90625, "image_reward": 1.5898146629333496}
+{"filename": "outputs/sweep_cfgmpp_w5/00425/samples/00000.png", "tag": "position", "prompt": "a photo of a zebra below a broccoli", "hpsv2": 29.8095703125, "image_reward": 0.3311924636363983}
+{"filename": "outputs/sweep_cfgmpp_w5/00426/samples/00000.png", "tag": "position", "prompt": "a photo of a laptop below a sports ball", "hpsv2": 29.2724609375, "image_reward": 1.9251168966293335}
+{"filename": "outputs/sweep_cfgmpp_w5/00427/samples/00000.png", "tag": "position", "prompt": "a photo of a truck left of a baseball bat", "hpsv2": 26.9775390625, "image_reward": -0.01038155797868967}
+{"filename": "outputs/sweep_cfgmpp_w5/00428/samples/00000.png", "tag": "position", "prompt": "a photo of a refrigerator above a baseball bat", "hpsv2": 30.6884765625, "image_reward": 1.7332819700241089}
+{"filename": "outputs/sweep_cfgmpp_w5/00429/samples/00000.png", "tag": "position", "prompt": "a photo of a tv above a baseball bat", "hpsv2": 27.197265625, "image_reward": 1.2841554880142212}
+{"filename": "outputs/sweep_cfgmpp_w5/00430/samples/00000.png", "tag": "position", "prompt": "a photo of a baseball glove right of a bear", "hpsv2": 27.2216796875, "image_reward": -1.5506235361099243}
+{"filename": "outputs/sweep_cfgmpp_w5/00431/samples/00000.png", "tag": "position", "prompt": "a photo of a refrigerator below a scissors", "hpsv2": 27.1728515625, "image_reward": 0.4028807580471039}
+{"filename": "outputs/sweep_cfgmpp_w5/00432/samples/00000.png", "tag": "position", "prompt": "a photo of a dining table above a suitcase", "hpsv2": 27.2216796875, "image_reward": -1.6432875394821167}
+{"filename": "outputs/sweep_cfgmpp_w5/00433/samples/00000.png", "tag": "position", "prompt": "a photo of a parking meter above a broccoli", "hpsv2": 28.22265625, "image_reward": 0.05940006300806999}
+{"filename": "outputs/sweep_cfgmpp_w5/00434/samples/00000.png", "tag": "position", "prompt": "a photo of a frisbee above a truck", "hpsv2": 29.0771484375, "image_reward": 1.691224217414856}
+{"filename": "outputs/sweep_cfgmpp_w5/00435/samples/00000.png", "tag": "position", "prompt": "a photo of a pizza right of a banana", "hpsv2": 29.3212890625, "image_reward": 1.2054880857467651}
+{"filename": "outputs/sweep_cfgmpp_w5/00436/samples/00000.png", "tag": "position", "prompt": "a photo of a bus above a boat", "hpsv2": 28.2958984375, "image_reward": 0.07640504091978073}
+{"filename": "outputs/sweep_cfgmpp_w5/00437/samples/00000.png", "tag": "position", "prompt": "a photo of a cell phone left of a tennis racket", "hpsv2": 28.173828125, "image_reward": -0.6595473289489746}
+{"filename": "outputs/sweep_cfgmpp_w5/00438/samples/00000.png", "tag": "position", "prompt": "a photo of a horse right of a broccoli", "hpsv2": 31.54296875, "image_reward": 1.6706368923187256}
+{"filename": "outputs/sweep_cfgmpp_w5/00439/samples/00000.png", "tag": "position", "prompt": "a photo of a broccoli above a bottle", "hpsv2": 29.98046875, "image_reward": 1.5676281452178955}
+{"filename": "outputs/sweep_cfgmpp_w5/00440/samples/00000.png", "tag": "position", "prompt": "a photo of a vase right of a horse", "hpsv2": 28.564453125, "image_reward": 0.8242287039756775}
+{"filename": "outputs/sweep_cfgmpp_w5/00441/samples/00000.png", "tag": "position", "prompt": "a photo of a bear above a spoon", "hpsv2": 31.15234375, "image_reward": 1.7612591981887817}
+{"filename": "outputs/sweep_cfgmpp_w5/00442/samples/00000.png", "tag": "position", "prompt": "a photo of a zebra right of a bed", "hpsv2": 28.662109375, "image_reward": 1.3437246084213257}
+{"filename": "outputs/sweep_cfgmpp_w5/00443/samples/00000.png", "tag": "position", "prompt": "a photo of a cow right of a laptop", "hpsv2": 28.4912109375, "image_reward": 1.9511799812316895}
+{"filename": "outputs/sweep_cfgmpp_w5/00444/samples/00000.png", "tag": "position", "prompt": "a photo of a bed right of a frisbee", "hpsv2": 26.953125, "image_reward": -1.4137275218963623}
+{"filename": "outputs/sweep_cfgmpp_w5/00445/samples/00000.png", "tag": "position", "prompt": "a photo of a tie right of a motorcycle", "hpsv2": 30.3955078125, "image_reward": 1.8268824815750122}
+{"filename": "outputs/sweep_cfgmpp_w5/00446/samples/00000.png", "tag": "position", "prompt": "a photo of a laptop right of a tv", "hpsv2": 27.4658203125, "image_reward": 0.7710292339324951}
+{"filename": "outputs/sweep_cfgmpp_w5/00447/samples/00000.png", "tag": "position", "prompt": "a photo of a cell phone right of a chair", "hpsv2": 29.1015625, "image_reward": 0.9133989810943604}
+{"filename": "outputs/sweep_cfgmpp_w5/00448/samples/00000.png", "tag": "position", "prompt": "a photo of a couch below a potted plant", "hpsv2": 27.197265625, "image_reward": 1.3049695491790771}
+{"filename": "outputs/sweep_cfgmpp_w5/00449/samples/00000.png", "tag": "position", "prompt": "a photo of a clock below a tv", "hpsv2": 26.7578125, "image_reward": 1.1481510400772095}
+{"filename": "outputs/sweep_cfgmpp_w5/00450/samples/00000.png", "tag": "position", "prompt": "a photo of a couch below a vase", "hpsv2": 24.71923828125, "image_reward": 1.1166999340057373}
+{"filename": "outputs/sweep_cfgmpp_w5/00451/samples/00000.png", "tag": "position", "prompt": "a photo of a donut below a cat", "hpsv2": 30.322265625, "image_reward": 1.7647161483764648}
+{"filename": "outputs/sweep_cfgmpp_w5/00452/samples/00000.png", "tag": "position", "prompt": "a photo of a couch left of a toaster", "hpsv2": 29.3212890625, "image_reward": 0.5735641717910767}
+{"filename": "outputs/sweep_cfgmpp_w5/00453/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a purple wine glass and a black apple", "hpsv2": 29.2236328125, "image_reward": 1.8995085954666138}
+{"filename": "outputs/sweep_cfgmpp_w5/00454/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a green bus and a purple microwave", "hpsv2": 27.3193359375, "image_reward": 0.8412917256355286}
+{"filename": "outputs/sweep_cfgmpp_w5/00455/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a green skis and a brown airplane", "hpsv2": 31.787109375, "image_reward": 0.9514434337615967}
+{"filename": "outputs/sweep_cfgmpp_w5/00456/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a yellow computer keyboard and a black sink", "hpsv2": 28.3935546875, "image_reward": 0.9449284076690674}
+{"filename": "outputs/sweep_cfgmpp_w5/00457/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a pink oven and a green motorcycle", "hpsv2": 29.00390625, "image_reward": 1.9144316911697388}
+{"filename": "outputs/sweep_cfgmpp_w5/00458/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a purple parking meter and a red laptop", "hpsv2": 26.8798828125, "image_reward": 0.10067643225193024}
+{"filename": "outputs/sweep_cfgmpp_w5/00459/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a yellow skateboard and an orange computer mouse", "hpsv2": 30.8349609375, "image_reward": 1.8905781507492065}
+{"filename": "outputs/sweep_cfgmpp_w5/00460/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a red skis and a brown tie", "hpsv2": 30.615234375, "image_reward": 1.7050212621688843}
+{"filename": "outputs/sweep_cfgmpp_w5/00461/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a pink skateboard and a black train", "hpsv2": 29.58984375, "image_reward": 1.9535048007965088}
+{"filename": "outputs/sweep_cfgmpp_w5/00462/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a white handbag and a purple bed", "hpsv2": 29.9560546875, "image_reward": 1.867165207862854}
+{"filename": "outputs/sweep_cfgmpp_w5/00463/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a purple elephant and a brown sports ball", "hpsv2": 31.0791015625, "image_reward": 1.942521572113037}
+{"filename": "outputs/sweep_cfgmpp_w5/00464/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a purple dog and a black dining table", "hpsv2": 29.19921875, "image_reward": 1.7806121110916138}
+{"filename": "outputs/sweep_cfgmpp_w5/00465/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a white dining table and a red car", "hpsv2": 29.7607421875, "image_reward": 1.9578666687011719}
+{"filename": "outputs/sweep_cfgmpp_w5/00466/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a blue cell phone and a green apple", "hpsv2": 29.78515625, "image_reward": 1.500783085823059}
+{"filename": "outputs/sweep_cfgmpp_w5/00467/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a red car and an orange potted plant", "hpsv2": 28.3203125, "image_reward": 1.9419523477554321}
+{"filename": "outputs/sweep_cfgmpp_w5/00468/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a brown carrot and a white potted plant", "hpsv2": 28.857421875, "image_reward": 0.8193588852882385}
+{"filename": "outputs/sweep_cfgmpp_w5/00469/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a black kite and a green bear", "hpsv2": 30.859375, "image_reward": 1.6343457698822021}
+{"filename": "outputs/sweep_cfgmpp_w5/00470/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a blue laptop and a brown bear", "hpsv2": 28.8330078125, "image_reward": 1.77249014377594}
+{"filename": "outputs/sweep_cfgmpp_w5/00471/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a green teddy bear and a brown kite", "hpsv2": 30.56640625, "image_reward": 1.714727520942688}
+{"filename": "outputs/sweep_cfgmpp_w5/00472/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a yellow stop sign and a blue potted plant", "hpsv2": 28.564453125, "image_reward": 1.875870943069458}
+{"filename": "outputs/sweep_cfgmpp_w5/00473/samples/00000.png", "tag": "color_attr", "prompt": "a photo of an orange snowboard and a green cat", "hpsv2": 31.640625, "image_reward": 1.7852033376693726}
+{"filename": "outputs/sweep_cfgmpp_w5/00474/samples/00000.png", "tag": "color_attr", "prompt": "a photo of an orange truck and a pink sink", "hpsv2": 30.37109375, "image_reward": 1.9526358842849731}
+{"filename": "outputs/sweep_cfgmpp_w5/00475/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a brown hot dog and a purple pizza", "hpsv2": 27.9541015625, "image_reward": 0.5920643210411072}
+{"filename": "outputs/sweep_cfgmpp_w5/00476/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a green couch and an orange umbrella", "hpsv2": 30.37109375, "image_reward": 1.8818767070770264}
+{"filename": "outputs/sweep_cfgmpp_w5/00477/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a brown bed and a pink cell phone", "hpsv2": 29.39453125, "image_reward": 0.6521239876747131}
+{"filename": "outputs/sweep_cfgmpp_w5/00478/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a black broccoli and a yellow cake", "hpsv2": 28.271484375, "image_reward": 0.5994083285331726}
+{"filename": "outputs/sweep_cfgmpp_w5/00479/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a red train and a purple bear", "hpsv2": 31.9091796875, "image_reward": 1.8823586702346802}
+{"filename": "outputs/sweep_cfgmpp_w5/00480/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a purple tennis racket and a black sink", "hpsv2": 29.248046875, "image_reward": 0.30195075273513794}
+{"filename": "outputs/sweep_cfgmpp_w5/00481/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a blue vase and a black banana", "hpsv2": 29.7607421875, "image_reward": 1.8373507261276245}
+{"filename": "outputs/sweep_cfgmpp_w5/00482/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a blue clock and a white cup", "hpsv2": 30.5419921875, "image_reward": 1.8938353061676025}
+{"filename": "outputs/sweep_cfgmpp_w5/00483/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a red umbrella and a blue couch", "hpsv2": 29.0283203125, "image_reward": 1.8889267444610596}
+{"filename": "outputs/sweep_cfgmpp_w5/00484/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a white handbag and a red giraffe", "hpsv2": 30.908203125, "image_reward": 1.9597325325012207}
+{"filename": "outputs/sweep_cfgmpp_w5/00485/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a pink tv remote and a blue airplane", "hpsv2": 31.0791015625, "image_reward": 1.5113990306854248}
+{"filename": "outputs/sweep_cfgmpp_w5/00486/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a pink handbag and a black scissors", "hpsv2": 29.0283203125, "image_reward": 1.7527351379394531}
+{"filename": "outputs/sweep_cfgmpp_w5/00487/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a brown car and a pink hair drier", "hpsv2": 29.150390625, "image_reward": 1.9268300533294678}
+{"filename": "outputs/sweep_cfgmpp_w5/00488/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a black bus and a brown cell phone", "hpsv2": 28.61328125, "image_reward": -1.567981481552124}
+{"filename": "outputs/sweep_cfgmpp_w5/00489/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a purple sheep and a pink banana", "hpsv2": 31.396484375, "image_reward": 1.9702433347702026}
+{"filename": "outputs/sweep_cfgmpp_w5/00490/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a blue handbag and a white cell phone", "hpsv2": 29.736328125, "image_reward": 1.6876487731933594}
+{"filename": "outputs/sweep_cfgmpp_w5/00491/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a white pizza and a green umbrella", "hpsv2": 30.4931640625, "image_reward": 1.4796286821365356}
+{"filename": "outputs/sweep_cfgmpp_w5/00492/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a white tie and a purple skateboard", "hpsv2": 30.712890625, "image_reward": 1.917712688446045}
+{"filename": "outputs/sweep_cfgmpp_w5/00493/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a yellow sports ball and a green boat", "hpsv2": 29.6630859375, "image_reward": 1.726197600364685}
+{"filename": "outputs/sweep_cfgmpp_w5/00494/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a white wine glass and a brown giraffe", "hpsv2": 31.005859375, "image_reward": 1.900675654411316}
+{"filename": "outputs/sweep_cfgmpp_w5/00495/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a yellow bowl and a white baseball glove", "hpsv2": 30.4443359375, "image_reward": 1.949028730392456}
+{"filename": "outputs/sweep_cfgmpp_w5/00496/samples/00000.png", "tag": "color_attr", "prompt": "a photo of an orange microwave and a black spoon", "hpsv2": 29.2724609375, "image_reward": 1.7239292860031128}
+{"filename": "outputs/sweep_cfgmpp_w5/00497/samples/00000.png", "tag": "color_attr", "prompt": "a photo of an orange skateboard and a pink bowl", "hpsv2": 30.712890625, "image_reward": 1.9665642976760864}
+{"filename": "outputs/sweep_cfgmpp_w5/00498/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a blue toilet and a white suitcase", "hpsv2": 30.126953125, "image_reward": 1.8966162204742432}
+{"filename": "outputs/sweep_cfgmpp_w5/00499/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a white boat and an orange hot dog", "hpsv2": 32.2998046875, "image_reward": 0.580377459526062}
+{"filename": "outputs/sweep_cfgmpp_w5/00500/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a yellow dining table and a pink dog", "hpsv2": 28.4423828125, "image_reward": 1.9094443321228027}
+{"filename": "outputs/sweep_cfgmpp_w5/00501/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a red cake and a purple chair", "hpsv2": 30.2978515625, "image_reward": 1.8932377099990845}
+{"filename": "outputs/sweep_cfgmpp_w5/00502/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a blue tie and a pink dining table", "hpsv2": 29.9072265625, "image_reward": 1.8855119943618774}
+{"filename": "outputs/sweep_cfgmpp_w5/00503/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a blue cow and a black computer keyboard", "hpsv2": 29.3701171875, "image_reward": 1.7881625890731812}
+{"filename": "outputs/sweep_cfgmpp_w5/00504/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a yellow pizza and a green oven", "hpsv2": 28.9794921875, "image_reward": -0.683832049369812}
+{"filename": "outputs/sweep_cfgmpp_w5/00505/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a red laptop and a brown car", "hpsv2": 28.271484375, "image_reward": -0.027638427913188934}
+{"filename": "outputs/sweep_cfgmpp_w5/00506/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a purple computer keyboard and a blue scissors", "hpsv2": 29.248046875, "image_reward": 1.7352495193481445}
+{"filename": "outputs/sweep_cfgmpp_w5/00507/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a green surfboard and an orange oven", "hpsv2": 30.46875, "image_reward": 1.90560781955719}
+{"filename": "outputs/sweep_cfgmpp_w5/00508/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a yellow parking meter and a pink refrigerator", "hpsv2": 29.78515625, "image_reward": 1.7752041816711426}
+{"filename": "outputs/sweep_cfgmpp_w5/00509/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a brown computer mouse and a purple bottle", "hpsv2": 30.2978515625, "image_reward": 1.7713741064071655}
+{"filename": "outputs/sweep_cfgmpp_w5/00510/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a red umbrella and a green cow", "hpsv2": 30.029296875, "image_reward": 1.7425960302352905}
+{"filename": "outputs/sweep_cfgmpp_w5/00511/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a red giraffe and a black cell phone", "hpsv2": 30.029296875, "image_reward": 1.5577118396759033}
+{"filename": "outputs/sweep_cfgmpp_w5/00512/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a brown oven and a purple train", "hpsv2": 28.271484375, "image_reward": -0.12304586917161942}
+{"filename": "outputs/sweep_cfgmpp_w5/00513/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a blue baseball bat and a pink book", "hpsv2": 27.83203125, "image_reward": 1.8307113647460938}
+{"filename": "outputs/sweep_cfgmpp_w5/00514/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a green cup and a yellow bowl", "hpsv2": 29.4189453125, "image_reward": 1.5353078842163086}
+{"filename": "outputs/sweep_cfgmpp_w5/00515/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a yellow suitcase and a brown bus", "hpsv2": 29.248046875, "image_reward": 1.9308806657791138}
+{"filename": "outputs/sweep_cfgmpp_w5/00516/samples/00000.png", "tag": "color_attr", "prompt": "a photo of an orange motorcycle and a pink donut", "hpsv2": 29.1259765625, "image_reward": 1.9393022060394287}
+{"filename": "outputs/sweep_cfgmpp_w5/00517/samples/00000.png", "tag": "color_attr", "prompt": "a photo of an orange giraffe and a white baseball glove", "hpsv2": 29.8095703125, "image_reward": 1.0260628461837769}
+{"filename": "outputs/sweep_cfgmpp_w5/00518/samples/00000.png", "tag": "color_attr", "prompt": "a photo of an orange handbag and a green carrot", "hpsv2": 29.736328125, "image_reward": 1.8332781791687012}
+{"filename": "outputs/sweep_cfgmpp_w5/00519/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a black bottle and a white refrigerator", "hpsv2": 27.8076171875, "image_reward": 1.5908868312835693}
+{"filename": "outputs/sweep_cfgmpp_w5/00520/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a white dog and a blue potted plant", "hpsv2": 29.0771484375, "image_reward": 1.7331362962722778}
+{"filename": "outputs/sweep_cfgmpp_w5/00521/samples/00000.png", "tag": "color_attr", "prompt": "a photo of an orange handbag and a red car", "hpsv2": 31.298828125, "image_reward": 1.9133553504943848}
+{"filename": "outputs/sweep_cfgmpp_w5/00522/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a red stop sign and a blue book", "hpsv2": 28.5400390625, "image_reward": 1.8208307027816772}
+{"filename": "outputs/sweep_cfgmpp_w5/00523/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a yellow car and an orange toothbrush", "hpsv2": 28.41796875, "image_reward": 1.6133053302764893}
+{"filename": "outputs/sweep_cfgmpp_w5/00524/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a black potted plant and a yellow toilet", "hpsv2": 30.224609375, "image_reward": 1.9635145664215088}
+{"filename": "outputs/sweep_cfgmpp_w5/00525/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a brown dining table and a white suitcase", "hpsv2": 27.6123046875, "image_reward": 0.155342698097229}
+{"filename": "outputs/sweep_cfgmpp_w5/00526/samples/00000.png", "tag": "color_attr", "prompt": "a photo of an orange donut and a yellow stop sign", "hpsv2": 27.9541015625, "image_reward": 1.5178682804107666}
+{"filename": "outputs/sweep_cfgmpp_w5/00527/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a green suitcase and a blue boat", "hpsv2": 32.568359375, "image_reward": 1.9396250247955322}
+{"filename": "outputs/sweep_cfgmpp_w5/00528/samples/00000.png", "tag": "color_attr", "prompt": "a photo of an orange tennis racket and a yellow sports ball", "hpsv2": 30.078125, "image_reward": 1.6484200954437256}
+{"filename": "outputs/sweep_cfgmpp_w5/00529/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a purple computer keyboard and a red chair", "hpsv2": 28.3935546875, "image_reward": 1.8028870820999146}
+{"filename": "outputs/sweep_cfgmpp_w5/00530/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a purple suitcase and an orange pizza", "hpsv2": 30.8837890625, "image_reward": 1.8249094486236572}
+{"filename": "outputs/sweep_cfgmpp_w5/00531/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a white bottle and a blue sheep", "hpsv2": 29.8828125, "image_reward": 1.8813022375106812}
+{"filename": "outputs/sweep_cfgmpp_w5/00532/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a purple backpack and a white umbrella", "hpsv2": 31.103515625, "image_reward": 1.8830876350402832}
+{"filename": "outputs/sweep_cfgmpp_w5/00533/samples/00000.png", "tag": "color_attr", "prompt": "a photo of an orange potted plant and a black spoon", "hpsv2": 31.103515625, "image_reward": 1.8602904081344604}
+{"filename": "outputs/sweep_cfgmpp_w5/00534/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a green tennis racket and a black dog", "hpsv2": 30.2734375, "image_reward": 1.3524987697601318}
+{"filename": "outputs/sweep_cfgmpp_w5/00535/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a yellow handbag and a blue refrigerator", "hpsv2": 29.6630859375, "image_reward": 1.9753409624099731}
+{"filename": "outputs/sweep_cfgmpp_w5/00536/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a pink broccoli and a red sink", "hpsv2": 28.6865234375, "image_reward": 1.195244312286377}
+{"filename": "outputs/sweep_cfgmpp_w5/00537/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a red bowl and a pink sink", "hpsv2": 28.173828125, "image_reward": 1.7624657154083252}
+{"filename": "outputs/sweep_cfgmpp_w5/00538/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a white toilet and a red apple", "hpsv2": 28.90625, "image_reward": 1.844825267791748}
+{"filename": "outputs/sweep_cfgmpp_w5/00539/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a pink dining table and a black sandwich", "hpsv2": 27.8564453125, "image_reward": 1.610868215560913}
+{"filename": "outputs/sweep_cfgmpp_w5/00540/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a black car and a green parking meter", "hpsv2": 26.318359375, "image_reward": 1.5687531232833862}
+{"filename": "outputs/sweep_cfgmpp_w5/00541/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a yellow bird and a black motorcycle", "hpsv2": 31.4453125, "image_reward": 1.838687777519226}
+{"filename": "outputs/sweep_cfgmpp_w5/00542/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a brown giraffe and a white stop sign", "hpsv2": 31.15234375, "image_reward": 0.39024618268013}
+{"filename": "outputs/sweep_cfgmpp_w5/00543/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a white banana and a black elephant", "hpsv2": 29.5166015625, "image_reward": 1.2355515956878662}
+{"filename": "outputs/sweep_cfgmpp_w5/00544/samples/00000.png", "tag": "color_attr", "prompt": "a photo of an orange cow and a purple sandwich", "hpsv2": 30.6396484375, "image_reward": 1.910873532295227}
+{"filename": "outputs/sweep_cfgmpp_w5/00545/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a red clock and a black cell phone", "hpsv2": 30.0537109375, "image_reward": 1.7173675298690796}
+{"filename": "outputs/sweep_cfgmpp_w5/00546/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a brown knife and a blue donut", "hpsv2": 31.9580078125, "image_reward": 1.802618384361267}
+{"filename": "outputs/sweep_cfgmpp_w5/00547/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a red cup and a pink handbag", "hpsv2": 29.638671875, "image_reward": 1.7949700355529785}
+{"filename": "outputs/sweep_cfgmpp_w5/00548/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a yellow bicycle and a red motorcycle", "hpsv2": 29.8095703125, "image_reward": 1.7949212789535522}
+{"filename": "outputs/sweep_cfgmpp_w5/00549/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a red orange and a purple broccoli", "hpsv2": 30.1025390625, "image_reward": 1.5918177366256714}
+{"filename": "outputs/sweep_cfgmpp_w5/00550/samples/00000.png", "tag": "color_attr", "prompt": "a photo of an orange traffic light and a white toilet", "hpsv2": 29.9560546875, "image_reward": 1.7229161262512207}
+{"filename": "outputs/sweep_cfgmpp_w5/00551/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a green cup and a red pizza", "hpsv2": 28.9794921875, "image_reward": -0.14654375612735748}
+{"filename": "outputs/sweep_cfgmpp_w5/00552/samples/00000.png", "tag": "color_attr", "prompt": "a photo of a blue pizza and a yellow baseball glove", "hpsv2": 27.9541015625, "image_reward": -0.6358405947685242}

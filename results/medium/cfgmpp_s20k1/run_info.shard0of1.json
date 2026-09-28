@@ -1,0 +1,19 @@
+{
+  "config": "/home/user/data/code/cfgmp-sd35-eval-ws/cfgmp-sd35-eval/configs/cfgmpp_s20k1.yaml",
+  "generation_params": {
+    "method": "cfgmpp",
+    "num_inference_steps": 20,
+    "guidance_scale": 4.0,
+    "max_aa_iter": 1,
+    "aa_window_size": 1,
+    "aa_damping": 1.0,
+    "time_threshold": 0.6
+  },
+  "planned_nfe_per_image": 68,
+  "n_samples": 4,
+  "seed": 0,
+  "dtype": "bfloat16",
+  "model": "stabilityai/stable-diffusion-3.5-medium",
+  "torch": "2.5.1+cu121",
+  "gpu": "NVIDIA RTX A6000"
+}
