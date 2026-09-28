@@ -2,7 +2,7 @@
 
 CFG-MP / CFG-MP+ ([arXiv:2601.21892](https://arxiv.org/abs/2601.21892))를 SD3.5-Medium 재평가 harness
 ([RevisitingCFGMethods](https://github.com/ThereWillComeSoftRains/RevisitingCFGMethods), arXiv:2608.16786)와
-같은 잣대로 재는 개인 검증용 코드다. 작업 카드: <https://github.com/users/gs3393/projects/1?pane=issue&itemId=250790696>
+같은 잣대로 재는 개인 검증용 코드다.
 
 ## 구성
 
@@ -26,7 +26,7 @@ harness 저장소는 라이선스가 없어 이 저장소에 복사하지 않는
   이미지당 62 NFE다. baseline은 30 step = 60 NFE로 둔다. harness 원래 값(25 step)은 `cfg_harness25.yaml`로 따로 둔다.
 - dtype은 모든 설정에서 bfloat16, 해상도 1024², prompt당 4장.
 
-## 실행 (원격 `gpu-host`)
+## 실행 (원격 GPU 호스트)
 
 작업 공간은 이 clone을 담은 디렉터리(`<ws>/cfgmp-sd35-eval`)에서 유도한다. 바꾸려면 `CFGMP_WS`를 준다. 공유 호스트의 tmux 전역 환경에 다른 프로젝트의 `WS`·`CUDA_VISIBLE_DEVICES`가 남아 있을 수 있으므로, 큐를 띄울 때 `CUDA_VISIBLE_DEVICES`를 명시한다.
 

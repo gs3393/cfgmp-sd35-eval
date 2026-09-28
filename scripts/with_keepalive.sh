@@ -4,7 +4,7 @@
 # exit (success, failure or signal).
 #   usage: scripts/with_keepalive.sh <work gpus, e.g. 0 or 0,1,2,3> -- <command...>
 set -uo pipefail
-KA_DIR=${KA_DIR:-/mnt/data/user}
+KA_DIR=${KA_DIR:?set KA_DIR to the directory that holds gpu_keepalive.py}
 KA_PY=${KA_PY:-/usr/bin/python}
 KA_SCRIPT=${KA_SCRIPT:-gpu_keepalive.py}
 KA_ARGS=${KA_ARGS:---mem-gb 20 --util 1 --duration 0}

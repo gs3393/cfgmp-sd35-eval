@@ -1,5 +1,5 @@
 {
-  "config": "/home/user/data/code/cfgmp-sd35-eval-ws/cfgmp-sd35-eval/configs/cfgmp_s10k1.yaml",
+  "config": "configs/cfgmp_s10k1.yaml",
   "generation_params": {
     "method": "cfgmp",
     "num_inference_steps": 10,
