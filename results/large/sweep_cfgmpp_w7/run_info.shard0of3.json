@@ -1,0 +1,19 @@
+{
+  "config": "/mnt/data/user/code/cfgmp-sd35-eval-ws/cfgmp-sd35-eval/configs/cfgmpp.yaml",
+  "generation_params": {
+    "method": "cfgmpp",
+    "num_inference_steps": 10,
+    "guidance_scale": 7,
+    "max_aa_iter": 3,
+    "aa_window_size": 1,
+    "aa_damping": 1.0,
+    "time_threshold": 0.6
+  },
+  "planned_nfe_per_image": 62,
+  "n_samples": 1,
+  "seed": 0,
+  "dtype": "bfloat16",
+  "model": "stabilityai/stable-diffusion-3.5-large",
+  "torch": "2.5.1+cu121",
+  "gpu": "NVIDIA H100 80GB HBM3"
+}

@@ -18,7 +18,7 @@ Every setting generates the same 553 GenEval prompts from the same initial noise
 | `cfgmp_s10k1` | CFG-MP, only the round count changed from the defaults | 10 | 1 | no | 34 |
 | `sweep_{cfg,cfgmpp}_w{3,5,7,9,12}` | guidance-scale sweep, 1 image per prompt | 30 / 10 | — / 3 | — / yes | 60 / 62 |
 
-Large runs carry an `L_` prefix. The 10-step, K = 3 configuration is what the authors' released `demo_SD.py` runs; the paper's appendix reports SD3.5 ablations at 20 and 30 steps and recommends two rounds, and its main tables do not state the split. The port in `cfgmp_eval/pipeline.py` was checked against the authors' unmodified sampler: same seed, pixel-identical output for both variants (`scripts/check_port_against_authors.py`).
+Large runs carry an `L_` prefix in the queue and log names; under `results/large/` the prefix is dropped. The 10-step, K = 3 configuration is what the authors' released `demo_SD.py` runs; the paper's appendix reports SD3.5 ablations at 20 and 30 steps and recommends two rounds, and its main tables do not state the split. The port in `cfgmp_eval/pipeline.py` was checked against the authors' unmodified sampler: same seed, pixel-identical output for both variants (`scripts/check_port_against_authors.py`).
 
 ## Headline numbers
 
